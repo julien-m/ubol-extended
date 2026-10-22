@@ -1,0 +1,466 @@
+{
+   "3pGroupAds": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Xayeysiis"
+   },
+   "3pGroupAnnoyances": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Waxyaabaha dhibka ah"
+   },
+   "3pGroupDefault": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Goobjoog"
+   },
+   "3pGroupImported": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Liisasyo la soo dejisay"
+   },
+   "3pGroupMalware": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Ilaalinta Malware-ka, amniga"
+   },
+   "3pGroupMisc": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Kala duwan"
+   },
+   "3pGroupPrivacy": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Gaar ahaaneed"
+   },
+   "3pGroupRegions": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Gobollo, luqado"
+   },
+   "aboutChangelog": {
+      "description": "",
+      "message": "Diiwaanka isbeddelka"
+   },
+   "aboutCode": {
+      "description": "English: Source code (GPLv3)",
+      "message": "Koodka isha (GPLv3)"
+   },
+   "aboutContributors": {
+      "description": "English: Contributors",
+      "message": "Ka-qaybgalayaasha"
+   },
+   "aboutDependencies": {
+      "description": "Shown in the About pane",
+      "message": "Ku-tiirsanaanta dibadda (GPLv3-ku-waafaqsan):"
+   },
+   "aboutDocumentation": {
+      "description": "Link to documentation in About pane",
+      "message": "Dokumentasho"
+   },
+   "aboutFilterLists": {
+      "description": "Link text to uBO's own filter lists repo",
+      "message": "Liisaska shaandhada"
+   },
+   "aboutPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Ku saabsan"
+   },
+   "aboutPrivacyPolicy": {
+      "description": "Link to privacy policy on GitHub (English)",
+      "message": "Siyaasadda gaar ahaaneed"
+   },
+   "aboutSourceCode": {
+      "description": "Link text to source code repo",
+      "message": "Koodka isha"
+   },
+   "aboutTranslations": {
+      "description": "Link text to translations repo",
+      "message": "Turjumaadyo"
+   },
+   "addButton": {
+      "description": "Text for buttons used to add content",
+      "message": "Ku dar"
+   },
+   "autoReloadLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Si toos ah dib u soo deji bogga marka la beddelo habka shaandhaynta"
+   },
+   "backupButton": {
+      "description": "Text for buttons used to back up content",
+      "message": "Kaydso…"
+   },
+   "basicFilteringModeDescription": {
+      "description": "This describes the 'basic' filtering mode",
+      "message": "Shaandhayn shabakadeed oo aasaasi ah oo ka timid liisaska shaandhada ee la doortay.\n\nUma baahna ogolaansho si loo akhriyo oo loo beddelo xogta websaydhyada."
+   },
+   "behaviorSectionLabel": {
+      "description": "The header text for the 'Behavior' section",
+      "message": "Dabeecad"
+   },
+   "completeFilteringModeDescription": {
+      "description": "This describes the 'complete' filtering mode",
+      "message": "Shaandhayn shabakadeed oo horumarsan oo ay weheliso shaandhayn gaar ah iyo mid guud oo la fidiyay oo ka timid liisaska shaandhada ee la doortay.\n\nWaxay u baahan tahay ogolaansho ballaaran si loo akhriyo oo loo beddelo xogta websaydhyada oo dhan.\n\nShaandhaynta la fidiyay ee guud waxay sababi kartaa isticmaalka kheyraadka bogga websaydhka oo kordha."
+   },
+   "customFiltersImportExportLabel": {
+      "description": "Text label heading the import/export area of custom filters",
+      "message": "Soo dejinta / Dhoofinta"
+   },
+   "customFiltersImportTextareaPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "Shaandhooyin qurxin/qoraal-yar oo gaar ah oo la rabo in la daro"
+   },
+   "customFiltersPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Shaandhooyin habaysan"
+   },
+   "customListImportLabel": {
+      "description": "Text label heading the import area of custom filter lists",
+      "message": "Ku dar liiska shaandhada…"
+   },
+   "customListImportPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "URL-ka liiska shaandhada ee la rabo in la daro"
+   },
+   "customListImportUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "To enforce cosmetic or scriptlet filters from imported lists, you must grant uBO Lite permission to run user scripts."
+   },
+   "dashboardName": {
+      "description": "English: uBO Lite — Dashboard",
+      "message": "uBO Lite — Dashboard"
+   },
+   "defaultFilteringModeDescription": {
+      "description": "This describes the default filtering mode setting",
+      "message": "Habka shaandhaynta goobjoogga ah waxaa beddeli doona hababka shaandhaynta websaydh kasta. Waxaad ku hagaajin kartaa habka shaandhaynta websaydh kasta iyadoo loo eegayo habka ugu habboon websaydhkaas. Hab kasta wuxuu leeyahay faa'iidooyin iyo cillado."
+   },
+   "defaultFilteringModeSectionLabel": {
+      "description": "The header text for the default filtering mode section",
+      "message": "Habka shaandhaynta goobjoogga ah"
+   },
+   "developDropdownLabel": {
+      "description": "A label of a dropdown list",
+      "message": "Daawo:"
+   },
+   "developOptionCustomDnrRules": {
+      "description": "An option in a dropdown list",
+      "message": "Xeerarka DNR ee habaysan"
+   },
+   "developOptionDnrRulesOf": {
+      "description": "A section header in a dropdown list",
+      "message": "Xeerarka DNR ee …"
+   },
+   "developOptionDynamicRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "Xeerar firfircoon"
+   },
+   "developOptionFilteringModeDetails": {
+      "description": "An option in a dropdown list",
+      "message": "Faahfaahinta habka shaandhaynta"
+   },
+   "developOptionSessionRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "Xeerar kalfadhi"
+   },
+   "developPageName": {
+      "description": "appears as tab name in dashboard. Inspired from 'Develop' menu in Safari, see https://developer.apple.com/documentation/safari-developer-tools/develop-menu",
+      "message": "Horumar"
+   },
+   "developerModeLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Habka horumariyaha"
+   },
+   "developerModeLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "Waxay u oggolaanaysaa helitaanka astaamooyinka ku habboon isticmaaleyaasha farsamada yaqaaniin."
+   },
+   "dnrRulesCountInfo": {
+      "description": "Short sentence to report the number of currently registered DNR rules",
+      "message": "Tirada xeerarka la diiwaan geliyay: {count}"
+   },
+   "dnrRulesWarning": {
+      "description": "Short description of the DNR rules editor pane",
+      "message": "Ha ku darin waxyaabo ka yimid ilo aan la kalsooni karin"
+   },
+   "enablePopupBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Daawo xannibaadda pop-up-ka"
+   },
+   "enablePopupBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "Marka ay firfircoon tahay, shaandhooyinka u dhigma waxay si toos ah u xirayaan tabooyinka biraawsarka ee aan la rabin ee ay abuuraan websaydhyada."
+   },
+   "enableStrictBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Daawo xannibaad adag"
+   },
+   "enableStrictBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "Dhaadhaca websaydhyada suurtogalka ah ee aan la rabin waa la xannibi doonaa, waxaana la siin doonaa fursad aad ku sii waddo."
+   },
+   "exportButton": {
+      "description": "Text for buttons used to export content",
+      "message": "Dhoofin…"
+   },
+   "extName": {
+      "description": "extension name.",
+      "message": "uBlock Origin Lite"
+   },
+   "extShortDesc": {
+      "description": "this will be in the Chrome web store: must be 132 characters or less",
+      "message": "Xannibaade wax ku ool ah. Wuxuu xannibaa xayeysiisyo, raad-raacyo, macdan-qodeyaal, iyo waxyaabo kale isla marka la rakibo."
+   },
+   "filteringMode0Name": {
+      "description": "Name of blocking mode 0",
+      "message": "shaandhayn la'aan"
+   },
+   "filteringMode1Name": {
+      "description": "Name of blocking mode 1",
+      "message": "aasaasi"
+   },
+   "filteringMode2Name": {
+      "description": "Name of blocking mode 2",
+      "message": "ugu habboon"
+   },
+   "filteringMode3Name": {
+      "description": "Name of blocking mode 3",
+      "message": "dhammaystiran"
+   },
+   "findListsPlaceholder": {
+      "description": "Placeholder for the input field used to find lists",
+      "message": "Raadi liisasyo"
+   },
+   "importAndAppendButton": {
+      "description": "Text for buttons used to import and append content",
+      "message": "Soo dejiso oo ku dar…"
+   },
+   "noFilteringModeDescription": {
+      "description": "A short description for the editable field which lists trusted sites",
+      "message": "Liiska websaydhyada aan shaandhayn ka dhici doonin."
+   },
+   "noFilteringModePlaceholder": {
+      "description": "Default text for in edit field",
+      "message": "[magacyo martigaliyayaal oo keliya]\nexample.com\ngames.example\n..."
+   },
+   "optimalFilteringModeDescription": {
+      "description": "This describes the 'optimal' filtering mode",
+      "message": "Shaandhayn shabakadeed oo horumarsan oo ay weheliso shaandhayn gaar ah oo la fidiyay oo ka timid liisaska shaandhada ee la doortay.\n\nWaxay u baahan tahay ogolaansho ballaaran si loo akhriyo oo loo beddelo xogta websaydhyada oo dhan."
+   },
+   "perRulesetStats": {
+      "description": "Appears aside each filter list in the _3rd-party filters_ pane",
+      "message": "{{ruleCount}} xeerar, oo laga beddelay {{filterCount}} shaandho shabakadeed"
+   },
+   "pickerCreate": {
+      "description": "Text for the button to create the filter",
+      "message": "Abuur"
+   },
+   "pickerPick": {
+      "description": "Text for the button to re-enter element-picking mode",
+      "message": "Dooro"
+   },
+   "pickerPreview": {
+      "description": "Text for the button to activate preview mode",
+      "message": "Horumuuji"
+   },
+   "pickerSliderLabel": {
+      "description": "Label to describe the purpose of the slider",
+      "message": "Dhaqaaji kala-rogaha si aad u doorato waxa ugu habboon"
+   },
+   "pickerTipEnter": {
+      "description": "Label for the menu entry to create cosmetic filters",
+      "message": "Abuur shaandho habaysan"
+   },
+   "popupFilteringModeLabel": {
+      "description": "Label in the popup panel for the current filtering mode",
+      "message": "habka shaandhaynta"
+   },
+   "popupLessButton": {
+      "description": "Label to be used to hide popup panel sections",
+      "message": "Ka yar"
+   },
+   "popupLocalToolsLabel": {
+      "description": "Label in the popup panel for the local tools section",
+      "message": "Websaydhkan"
+   },
+   "popupMoreButton": {
+      "description": "Label to be used to show popup panel sections",
+      "message": "Dheeri ah"
+   },
+   "popupNoWebsite": {
+      "description": "Used when popup panel is opened for a local web page",
+      "message": "not a website"
+   },
+   "popupTipDashboard": {
+      "description": "English: Click to open the dashboard",
+      "message": "Fur dashboard-ka"
+   },
+   "popupTipReport": {
+      "description": "Tooltip used for the 'chat' icon in the panel",
+      "message": "Soo sheeg dhibaato"
+   },
+   "resetToDefaultButton": {
+      "description": "Text for buttons used to reset configurations to default",
+      "message": "Ku celi dejinta goobjoogga ah…"
+   },
+   "resetToDefaultConfirm": {
+      "description": "Message asking user to confirm reset to default settings",
+      "message": "Dhammaan dejintaada habaysan waa la saari doonaa. Runtii ma waxaad rabtaa inaad ku celiso dejinta goobjoogga ah?"
+   },
+   "restoreButton": {
+      "description": "Text for buttons used to restore content",
+      "message": "Soo celi…"
+   },
+   "revertButton": {
+      "description": "Text for buttons used to revert changes",
+      "message": "Noqo"
+   },
+   "sandboxEditorLabel": {
+      "description": "Header for filter-creation section in the dashboard",
+      "message": "Sanduuqa ciyaarta ee abuurista shaandhada"
+   },
+   "sandboxEditorUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "To enforce cosmetic or scriptlet filters from the sandbox, you must grant uBO Lite permission to run user scripts."
+   },
+   "saveButton": {
+      "description": "Text for buttons used to save changes",
+      "message": "Kaydi"
+   },
+   "settingsBackupRestoreLabel": {
+      "description": "The header text for the back up/restore section",
+      "message": "Kayd"
+   },
+   "settingsBackupRestoreLegend": {
+      "description": "Important information about the back up/restore section.",
+      "message": "Soo celintu waxay ku qori doontaa dhammaan dejintaada habaysan ee hadda jirta."
+   },
+   "settingsBackupRestoreSummary": {
+      "description": "A summary description of the back up/restore section.",
+      "message": "Ku kaydso dejintaada habaysan fayl, ama soo celi dejintaada habaysan fayl."
+   },
+   "settingsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Dejinta"
+   },
+   "showBlockedCountLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Muuji tirada codsiyada la xannibay astaanta qalabka"
+   },
+   "strictblockBack": {
+      "description": "A button to go back to the previous web page",
+      "message": "Dib u noqo"
+   },
+   "strictblockClose": {
+      "description": "A button to close the current tab",
+      "message": "Xidh daaqaddan"
+   },
+   "strictblockDontWarn": {
+      "description": "Label for checkbox in document-blocked page",
+      "message": "Ha igu digin mar labaad oo ku saabsan boggan"
+   },
+   "strictblockNoParamsPrompt": {
+      "description": "Label to be used for the parameter-less URL",
+      "message": "iyadoo aan lahayn cabbirro"
+   },
+   "strictblockProceed": {
+      "description": "A button to navigate to the blocked page",
+      "message": "Sii wad"
+   },
+   "strictblockReasonSentence1": {
+      "description": "Text informing about what is causing the page to be blocked",
+      "message": "Bogga waa la xannibay sababtoo ah shaandho u dhigma oo ku jirta {{listname}}."
+   },
+   "strictblockRedirectSentence1": {
+      "description": "Text warning about an incoming redirect",
+      "message": "Bogga la xannibay wuxuu rabaa inuu u wareego bog kale. Haddii aad doorato inaad sii waddo, waxaad si toos ah ugu dhaadhacdaa: {{url}}"
+   },
+   "strictblockSentence1": {
+      "description": "Sentence used in the strict-blocked page",
+      "message": "uBO Lite ayaa ka hor istaagtay in boggan soo dego:"
+   },
+   "strictblockTitle": {
+      "description": "Web page title for the strict-blocked page",
+      "message": "Bog la xannibay"
+   },
+   "supportFindSpecificButton": {
+      "description": "A clickable link in the filter issue reporter section",
+      "message": "Raadi warbixino la mid ah oo ku yaal GitHub"
+   },
+   "supportReportSpecificButton": {
+      "description": "Text for button which opens an external web page in Support pane",
+      "message": "Samee warbixin cusub oo ku taal GitHub"
+   },
+   "supportS3P1": {
+      "description": "First paragraph of 'Filter issues' section in Support pane",
+      "message": "Soo sheeg dhibaatooyinka shaandhada ee websaydhyada gaarka ah raad-raaciyaha dhibaatooyinka \u003Cspan data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\">\u003Ccode>uBlockOrigin/uAssets\u003C/code>\u003C/span>. \u003Cu>Waxay u baahan tahay akoon GitHub.\u003C/u>"
+   },
+   "supportS5H": {
+      "description": "Label of 'Troubleshooting information' section in 'Report a filter issue' page",
+      "message": "Macluumaadka cilad-baadhista"
+   },
+   "supportS6Checkbox1": {
+      "description": "A checkbox to use for NSFW sites",
+      "message": "U calaamadee bogga websaydhka sida “NSFW” (\u003Ca href=\"https://wikipedia.org/wiki/Not_safe_for_work\">“Aan Ammaan u ahayn Shaqada”\u003C/a>)"
+   },
+   "supportS6H": {
+      "description": "Header of 'Report a filter issue' section in Support pane",
+      "message": "Soo sheeg dhibaatada shaandhada"
+   },
+   "supportS6P1S1": {
+      "description": "A paragraph in the filter issue reporter section",
+      "message": "Si looga fogaado in loola culeeyo mutadawiciinta warbixino isku mid ah, fadlan hubi in dhibaatada aan weli la soo sheegin. \u003Cb>Fiiro gaar ah:\u003C/b> gujinta batoomada waxay keenaysaa in asalka bogga loo diro GitHub."
+   },
+   "supportS6Select1": {
+      "description": "Label for widget to select type of issue",
+      "message": "Bogga websaydhka…"
+   },
+   "supportS6Select1Option0": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "-- Dooro gelin --"
+   },
+   "supportS6Select1Option1": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Wuxuu muujiyaa xayeysiisyo ama hadhaagii xayeysiiska"
+   },
+   "supportS6Select1Option2": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Wuxuu leeyahay dahaar ama waxyaabo kale oo dhib badan"
+   },
+   "supportS6Select1Option3": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Wuxuu ogaadaa uBO Lite"
+   },
+   "supportS6Select1Option4": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Wuxuu leeyahay dhibaatooyin la xiriira gaar ahaaneed"
+   },
+   "supportS6Select1Option5": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Waxay cilladeeyaan marka uBO Lite la daayo"
+   },
+   "supportS6Select1Option6": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Wuxuu furayaa tabo ama daaqado aan la rabin"
+   },
+   "supportS6Select1Option7": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Wuxuu u horseedaa barnaamij xun, khiyaamo (phishing)"
+   },
+   "supportS6URL": {
+      "description": "Label for the URL of the page",
+      "message": "Ciwaanka bogga websaydhka:"
+   },
+   "unpickerTipEnter": {
+      "description": "Label for the menu entry to delete cosmetic filters",
+      "message": "Ka saar shaandho habaysan"
+   },
+   "unpickerUsage": {
+      "description": "Summary description on how to use the tool to remove custom filters",
+      "message": "Dooro shaandho hoose si aad u iftiimiso qaybaha u dhigma ee bogga websaydhka. Guji qashinka si aad uga saarto shaandho."
+   },
+   "userScriptsInfo": {
+      "description": "A notice to inform user on how to enable 'user scripts' permission",
+      "message": "Fur bogga kordhinta biraawsarkaaga (\u003Ccode>chrome://extensions\u003C/code> Chrome ama \u003Ccode>about:addons\u003C/code> Firefox), fur faahfaahinta \u003Cb>uBO Lite\u003C/b>, oo daawo \u003Cb>Oggolow qoraallada isticmaalaha\u003C/b> (oo sidoo kale loo yaqaan “qoraallada dhinac-saddexaad ee aan la xaqiijin”)."
+   },
+   "zapperTipEnter": {
+      "description": "Tooltip for the button used to enter zapper mode",
+      "message": "Ka saar qayb"
+   },
+   "zapperTipQuit": {
+      "description": "Tooltip for the button used to exit zapper mode",
+      "message": "Ka bax habka xaaqista qaybaha"
+   }
+}

@@ -1,0 +1,466 @@
+{
+   "3pGroupAds": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Գովազդ"
+   },
+   "3pGroupAnnoyances": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Ջղայնացնող տարրեր"
+   },
+   "3pGroupDefault": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Լռելյայն"
+   },
+   "3pGroupImported": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Ներմուծված ցանկեր"
+   },
+   "3pGroupMalware": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Վնասակար ծրագրերից պաշտպանություն, անվտանգություն"
+   },
+   "3pGroupMisc": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Տարբեր"
+   },
+   "3pGroupPrivacy": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Գաղտնիություն"
+   },
+   "3pGroupRegions": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Տարածաշրջաններ, լեզուներ"
+   },
+   "aboutChangelog": {
+      "description": "",
+      "message": "Փոփոխությունների մատյան"
+   },
+   "aboutCode": {
+      "description": "English: Source code (GPLv3)",
+      "message": "Աղբյուրի կոդ (GPLv3)"
+   },
+   "aboutContributors": {
+      "description": "English: Contributors",
+      "message": "Մասնակիցներ"
+   },
+   "aboutDependencies": {
+      "description": "Shown in the About pane",
+      "message": "Արտաքին կախվածություններ (GPLv3-համատեղելի)՝"
+   },
+   "aboutDocumentation": {
+      "description": "Link to documentation in About pane",
+      "message": "Փաստաթղթավորում"
+   },
+   "aboutFilterLists": {
+      "description": "Link text to uBO's own filter lists repo",
+      "message": "Զտիչների ցանկեր"
+   },
+   "aboutPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Ընդլայնման մասին"
+   },
+   "aboutPrivacyPolicy": {
+      "description": "Link to privacy policy on GitHub (English)",
+      "message": "Գաղտնիության քաղաքականություն"
+   },
+   "aboutSourceCode": {
+      "description": "Link text to source code repo",
+      "message": "Աղբյուրի կոդ"
+   },
+   "aboutTranslations": {
+      "description": "Link text to translations repo",
+      "message": "Թարգմանություն"
+   },
+   "addButton": {
+      "description": "Text for buttons used to add content",
+      "message": "Ավելացնել"
+   },
+   "autoReloadLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Զտման ռեժիմը փոխելիս ինքնաշխատորեն վերաբեռնել էջը"
+   },
+   "backupButton": {
+      "description": "Text for buttons used to back up content",
+      "message": "Պահուստավորել…"
+   },
+   "basicFilteringModeDescription": {
+      "description": "This describes the 'basic' filtering mode",
+      "message": "Ցանցային հիմնական զտում ըստ ընտրված զտիչների ցուցակների։\n\nԿայքերում տվյալները կարդալու և փոփոխելու թույլտվություն չի պահանջում։"
+   },
+   "behaviorSectionLabel": {
+      "description": "The header text for the 'Behavior' section",
+      "message": "Վարք"
+   },
+   "completeFilteringModeDescription": {
+      "description": "This describes the 'complete' filtering mode",
+      "message": "Ընդլայնված ցանցային զտում, ինչպես նաև հատուկ և առաջադեմ ընդհանուր զտում ընտրված զտիչների ցանկերի համաձայն։\n\nՊահանջում է բոլոր կայքերում տվյալները կարդալու և փոփոխելու թույլտվություն։\n\nԱռաջադեմ ընդհանուր զտումը կարող է առաջացնել վեբ էջի կողմից ռեսուրսների սպառման ավելացում:"
+   },
+   "customFiltersImportExportLabel": {
+      "description": "Text label heading the import/export area of custom filters",
+      "message": "Ներմուծում / Արտահանում"
+   },
+   "customFiltersImportTextareaPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "Ավելացման ենթակա հատուկ կոսմետիկ/սկրիպտլետ զտիչներ"
+   },
+   "customFiltersPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Անհատական զտիչներ"
+   },
+   "customListImportLabel": {
+      "description": "Text label heading the import area of custom filter lists",
+      "message": "Ավելացնել զտիչների ցանկ…"
+   },
+   "customListImportPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "Ավելացման ենթակա զտիչների ցանկի URL-ը"
+   },
+   "customListImportUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "To enforce cosmetic or scriptlet filters from imported lists, you must grant uBO Lite permission to run user scripts."
+   },
+   "dashboardName": {
+      "description": "English: uBO Lite — Dashboard",
+      "message": "uBO Lite — Կառավահան"
+   },
+   "defaultFilteringModeDescription": {
+      "description": "This describes the default filtering mode setting",
+      "message": "Զտման լռելյայն ռեժիմը վերասահմանվում է յուրաքանչյուր կայքի զտման ռեժիմներով։ Դուք կարող եք ջոկել ամենաարդյունավետ զտման ռեժիմը ցանկացած կայքում։ Յուրաքանչյուր ռեժիմ ունի իր առավելություններն ու թերությունները։"
+   },
+   "defaultFilteringModeSectionLabel": {
+      "description": "The header text for the default filtering mode section",
+      "message": "Զտման լռելյայն ռեժիմ"
+   },
+   "developDropdownLabel": {
+      "description": "A label of a dropdown list",
+      "message": "Դիտել՝"
+   },
+   "developOptionCustomDnrRules": {
+      "description": "An option in a dropdown list",
+      "message": "Անհատական DNR կանոններ"
+   },
+   "developOptionDnrRulesOf": {
+      "description": "A section header in a dropdown list",
+      "message": "…-ի DNR կանոնները"
+   },
+   "developOptionDynamicRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "Դինամիկ կանոնների հավաքածու"
+   },
+   "developOptionFilteringModeDetails": {
+      "description": "An option in a dropdown list",
+      "message": "Զտման ռեժիմի մանրամասներ"
+   },
+   "developOptionSessionRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "Սեսիայի կանոնների հավաքածու"
+   },
+   "developPageName": {
+      "description": "appears as tab name in dashboard. Inspired from 'Develop' menu in Safari, see https://developer.apple.com/documentation/safari-developer-tools/develop-menu",
+      "message": "Մշակել"
+   },
+   "developerModeLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Մշակողի ռեժիմ"
+   },
+   "developerModeLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "Միացնում է մուտքը տեխնիկական օգտատերերի համար հարմար գործառույթներին։"
+   },
+   "dnrRulesCountInfo": {
+      "description": "Short sentence to report the number of currently registered DNR rules",
+      "message": "Գրանցված կանոնների քանակը՝ {count}"
+   },
+   "dnrRulesWarning": {
+      "description": "Short description of the DNR rules editor pane",
+      "message": "Մի ավելացրեք բովանդակություն անվստահելի աղբյուրներից"
+   },
+   "enablePopupBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Միացնել թռուցիկների արգելափակումը"
+   },
+   "enablePopupBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "Ակտիվ լինելու դեպքում համապատասխան զտիչները ավտոմատ կերպով կփակեն կայքերի կողմից ստեղծված անցանկալի դիտարկչի ներդիրները։"
+   },
+   "enableStrictBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Միացնել խիստ արգելափակումը"
+   },
+   "enableStrictBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "Պոտենցիալ անցանկալի կայքերի նավարկումը կարգելափակվի, և ձեզ կառաջարկվի շարունակելու հնարավորություն։"
+   },
+   "exportButton": {
+      "description": "Text for buttons used to export content",
+      "message": "Արտահանել…"
+   },
+   "extName": {
+      "description": "extension name.",
+      "message": "uBlock Origin Lite"
+   },
+   "extShortDesc": {
+      "description": "this will be in the Chrome web store: must be 132 characters or less",
+      "message": "Փբովանդակության արգելափակիչ, որը չի պահանջում թույլտվություններ։ Արգելափակում է ազդերը, հետագծիչները, մայներները և շատ ավելին։"
+   },
+   "filteringMode0Name": {
+      "description": "Name of blocking mode 0",
+      "message": "առանց զտման"
+   },
+   "filteringMode1Name": {
+      "description": "Name of blocking mode 1",
+      "message": "հիմնական"
+   },
+   "filteringMode2Name": {
+      "description": "Name of blocking mode 2",
+      "message": "գերադասելի"
+   },
+   "filteringMode3Name": {
+      "description": "Name of blocking mode 3",
+      "message": "ամբողջական"
+   },
+   "findListsPlaceholder": {
+      "description": "Placeholder for the input field used to find lists",
+      "message": "Գտնել ցանկեր"
+   },
+   "importAndAppendButton": {
+      "description": "Text for buttons used to import and append content",
+      "message": "Ներմուծել և կցել…"
+   },
+   "noFilteringModeDescription": {
+      "description": "A short description for the editable field which lists trusted sites",
+      "message": "Հյուրերի անունների ցանկ, որոնց համար զտում չի իրականացվի"
+   },
+   "noFilteringModePlaceholder": {
+      "description": "Default text for in edit field",
+      "message": "[միայն հոսթի անուններ]\nexample.com\ngames.example\n..."
+   },
+   "optimalFilteringModeDescription": {
+      "description": "This describes the 'optimal' filtering mode",
+      "message": "Ընդլայնված ցանցային զտում՝ ընտրված զտիչների ցուցակների համաձայն հատուկ զտման հետ միասին։\n\nՊահանջում է տվյալները բոլոր կայքերում կարդալու և փոփոխելու թույլտվություն։"
+   },
+   "perRulesetStats": {
+      "description": "Appears aside each filter list in the _3rd-party filters_ pane",
+      "message": "{{ruleCount}} կանոն, որոնք փոխարկված են {{filterCount}} ցանցային զտիչներից"
+   },
+   "pickerCreate": {
+      "description": "Text for the button to create the filter",
+      "message": "Ստեղծել"
+   },
+   "pickerPick": {
+      "description": "Text for the button to re-enter element-picking mode",
+      "message": "Ընտրել"
+   },
+   "pickerPreview": {
+      "description": "Text for the button to activate preview mode",
+      "message": "Նախադիտում"
+   },
+   "pickerSliderLabel": {
+      "description": "Label to describe the purpose of the slider",
+      "message": "Տեղաշարժեք սահիչը՝ լավագույն համընկնումն ընտրելու համար"
+   },
+   "pickerTipEnter": {
+      "description": "Label for the menu entry to create cosmetic filters",
+      "message": "Ստեղծել անհատական զտիչ"
+   },
+   "popupFilteringModeLabel": {
+      "description": "Label in the popup panel for the current filtering mode",
+      "message": "զտման ռեժիմ"
+   },
+   "popupLessButton": {
+      "description": "Label to be used to hide popup panel sections",
+      "message": "Պակաս"
+   },
+   "popupLocalToolsLabel": {
+      "description": "Label in the popup panel for the local tools section",
+      "message": "Այս կայքում"
+   },
+   "popupMoreButton": {
+      "description": "Label to be used to show popup panel sections",
+      "message": "Ավելին"
+   },
+   "popupNoWebsite": {
+      "description": "Used when popup panel is opened for a local web page",
+      "message": "not a website"
+   },
+   "popupTipDashboard": {
+      "description": "English: Click to open the dashboard",
+      "message": "Բացել կառավահանը"
+   },
+   "popupTipReport": {
+      "description": "Tooltip used for the 'chat' icon in the panel",
+      "message": "Զեկուցել կայքի հետ խնդրի մասին"
+   },
+   "resetToDefaultButton": {
+      "description": "Text for buttons used to reset configurations to default",
+      "message": "Վերակայել լռելյայն կարգավորումներին…"
+   },
+   "resetToDefaultConfirm": {
+      "description": "Message asking user to confirm reset to default settings",
+      "message": "Ձեր բոլոր անհատական կարգավորումները կհեռացվեն։ Դուք իսկապե՞ս ցանկանում եք վերակայել լռելյայն կարգավորումներին։"
+   },
+   "restoreButton": {
+      "description": "Text for buttons used to restore content",
+      "message": "Վերականգնել…"
+   },
+   "revertButton": {
+      "description": "Text for buttons used to revert changes",
+      "message": "Վերադարձնել"
+   },
+   "sandboxEditorLabel": {
+      "description": "Header for filter-creation section in the dashboard",
+      "message": "Զտիչների ստեղծման ավազարկղ"
+   },
+   "sandboxEditorUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "To enforce cosmetic or scriptlet filters from the sandbox, you must grant uBO Lite permission to run user scripts."
+   },
+   "saveButton": {
+      "description": "Text for buttons used to save changes",
+      "message": "Պահպանել"
+   },
+   "settingsBackupRestoreLabel": {
+      "description": "The header text for the back up/restore section",
+      "message": "Պահուստավորում"
+   },
+   "settingsBackupRestoreLegend": {
+      "description": "Important information about the back up/restore section.",
+      "message": "Վերականգնումը կվերագրի ձեր բոլոր ընթացիկ անհատական կարգավորումները։"
+   },
+   "settingsBackupRestoreSummary": {
+      "description": "A summary description of the back up/restore section.",
+      "message": "Պահուստավորեք ձեր անհատական կարգավորումները ֆայլում, կամ վերականգնեք ձեր անհատական կարգավորումները ֆայլից։"
+   },
+   "settingsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Կարգավորումներ"
+   },
+   "showBlockedCountLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Ցուցադրել արգելափակված հայտերի քանակը գործիքների վահանակին"
+   },
+   "strictblockBack": {
+      "description": "A button to go back to the previous web page",
+      "message": "Հետ գնալ"
+   },
+   "strictblockClose": {
+      "description": "A button to close the current tab",
+      "message": "Փակել այս պատուհանը"
+   },
+   "strictblockDontWarn": {
+      "description": "Label for checkbox in document-blocked page",
+      "message": "Այլևս չզգուշացնել այս կայքի մասին"
+   },
+   "strictblockNoParamsPrompt": {
+      "description": "Label to be used for the parameter-less URL",
+      "message": "առանց պարամետրերի"
+   },
+   "strictblockProceed": {
+      "description": "A button to navigate to the blocked page",
+      "message": "Շարունակել"
+   },
+   "strictblockReasonSentence1": {
+      "description": "Text informing about what is causing the page to be blocked",
+      "message": "Էջն արգելափակվել է {{listname}}-ում համապատասխան զտիչի պատճառով։"
+   },
+   "strictblockRedirectSentence1": {
+      "description": "Text warning about an incoming redirect",
+      "message": "Արգելափակված էջը ցանկանում է վերահղվել մեկ այլ կայք։ Եթե ընտրեք շարունակել, դուք ուղղակիորեն կտեղափոխվեք՝ {{url}}"
+   },
+   "strictblockSentence1": {
+      "description": "Sentence used in the strict-blocked page",
+      "message": "uBO Lite-ը կանխել է հետևյալ էջի բեռնումը՝"
+   },
+   "strictblockTitle": {
+      "description": "Web page title for the strict-blocked page",
+      "message": "Էջն արգելափակված է"
+   },
+   "supportFindSpecificButton": {
+      "description": "A clickable link in the filter issue reporter section",
+      "message": "Գտնել նման զեկույցներ GitHub-ում"
+   },
+   "supportReportSpecificButton": {
+      "description": "Text for button which opens an external web page in Support pane",
+      "message": "Նոր զեկույց ստեղծել GitHub-ում"
+   },
+   "supportS3P1": {
+      "description": "First paragraph of 'Filter issues' section in Support pane",
+      "message": "Հաղորդել կոնկրետ կայքերի հետ կապված զտիչների խնդիրների մասին \u003Cspan data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\">\u003Ccode>uBlockOrigin/uAssets\u003C/code> խնդիրների հետագծման համակարգին\u003C/span>։ \u003Cu>Պահանջվում է GitHub հաշիվ։\u003C/u>"
+   },
+   "supportS5H": {
+      "description": "Label of 'Troubleshooting information' section in 'Report a filter issue' page",
+      "message": "Խնդիրների լուծման տեղեկատվություն"
+   },
+   "supportS6Checkbox1": {
+      "description": "A checkbox to use for NSFW sites",
+      "message": "Նշել վեբ էջը որպես “NSFW” (\u003Ca href=\"https://wikipedia.org/wiki/Not_safe_for_work\">“Անպատշաճ աշխատանքի համար”\u003C/a>)"
+   },
+   "supportS6H": {
+      "description": "Header of 'Report a filter issue' section in Support pane",
+      "message": "Հաղորդել զտիչի խնդրի մասին"
+   },
+   "supportS6P1S1": {
+      "description": "A paragraph in the filter issue reporter section",
+      "message": "Կամավորներին կրկնվող հաղորդումներով չծանրաբեռնելու համար, խնդրում ենք ստուգել, որ խնդիրը դեռ չի հաղորդվել։ \u003Cb>Նշում.\u003C/b> կոճակի սեղմումը կհանգեցնի էջի ծագման (origin) ուղարկմանը GitHub։"
+   },
+   "supportS6Select1": {
+      "description": "Label for widget to select type of issue",
+      "message": "Վեբկայքը՝"
+   },
+   "supportS6Select1Option0": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "-- Ընտրեք տարբերակ --"
+   },
+   "supportS6Select1Option1": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Ցուցադրում է գովազդ կամ գովազդի մնացորդներ"
+   },
+   "supportS6Select1Option2": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Ունի ծածկույթներ կամ այլ անհարմարություններ"
+   },
+   "supportS6Select1Option3": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Հայտնաբերում է uBO Lite-ը"
+   },
+   "supportS6Select1Option4": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Ունի գաղտնիության հետ կապված խնդիրներ"
+   },
+   "supportS6Select1Option5": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Խափանվում է, երբ uBO Lite-ը միացված է"
+   },
+   "supportS6Select1Option6": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Բացում է անցանկալի ներդիրներ կամ պատուհաններ"
+   },
+   "supportS6Select1Option7": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Բերում է վնասակար ծրագրերի, ֆիշինգի"
+   },
+   "supportS6URL": {
+      "description": "Label for the URL of the page",
+      "message": "Վեբ էջի հասցեն՝"
+   },
+   "unpickerTipEnter": {
+      "description": "Label for the menu entry to delete cosmetic filters",
+      "message": "Հեռացնել անհատական զտիչը"
+   },
+   "unpickerUsage": {
+      "description": "Summary description on how to use the tool to remove custom filters",
+      "message": "Ընտրեք ներքևում գտնվող զտիչը՝ վեբ էջում համապատասխան տարրերն ընդգծելու համար։ Սեղմեք աղբարկղի պատկերակը՝ զտիչը հեռացնելու համար։"
+   },
+   "userScriptsInfo": {
+      "description": "A notice to inform user on how to enable 'user scripts' permission",
+      "message": "Բացեք ձեր դիտարկչի ընդլայնումների էջը (\u003Ccode>chrome://extensions\u003C/code> Chrome-ում կամ \u003Ccode>about:addons\u003C/code> Firefox-ում), բացեք \u003Cb>uBO Lite\u003C/b>-ի մանրամասները և միացրեք \u003Cb>Թույլատրել օգտատիրոջ սկրիպտները\u003C/b> (նաև կոչվում է “չստուգված երրորդ կողմի սկրիպտներ”)։"
+   },
+   "zapperTipEnter": {
+      "description": "Tooltip for the button used to enter zapper mode",
+      "message": "Հեռացնել տարրը"
+   },
+   "zapperTipQuit": {
+      "description": "Tooltip for the button used to exit zapper mode",
+      "message": "Ելք տարրի զապպեր ռեժիմից"
+   }
+}

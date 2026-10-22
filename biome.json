@@ -1,0 +1,28 @@
+{
+  "$schema": "https://biomejs.dev/schemas/2.5.15/schema.json",
+  "files": {
+    "includes": [
+      "packages/**/*.ts",
+      "scripts/**/*.ts",
+      "tests/**/*.ts",
+      "extensions/tampermonkey/mcp-*.js",
+      "packages/ublock-extension/**/*.js"
+    ]
+  },
+  "formatter": {
+    "enabled": true,
+    "indentStyle": "space",
+    "indentWidth": 2
+  },
+  "linter": {
+    "enabled": true,
+    "rules": {
+      "correctness": {
+        "noUnusedVariables": "error",
+        "noUnreachable": "error",
+        "noInvalidUseBeforeDeclaration": "error"
+      },
+      "preset": "none"
+    }
+  }
+}

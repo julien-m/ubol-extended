@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>uBOL Extended — MCP</title>
+<style>
+:root{color-scheme:light dark;font:14px system-ui;color:#202124;background:#fff}
+body{margin:0;padding:16px;box-sizing:border-box}.card{border:1px solid #e3e5e8;border-radius:16px;padding:20px;max-width:640px;background:#fff}
+h2{font-size:16px;margin:0 0 16px;font-weight:600}.endpoint{display:flex;align-items:center;gap:8px;color:#65707b;margin-bottom:20px;font:13px ui-monospace,monospace;overflow-wrap:anywhere}.endpoint.connected{color:#00a34a}.dot{width:8px;height:8px;background:currentColor;border-radius:50%;flex-shrink:0}
+label,.caption{display:block;color:#757575;font-size:12px;margin-bottom:8px}.field{margin-bottom:16px}.host{font:14px ui-monospace,monospace}input{font:inherit}input[type=number]{width:96px;border:1px solid #e3e5e8;border-radius:6px;padding:6px 8px;color:inherit;background:transparent}.token-row{display:flex;gap:8px;align-items:center}input[type=password],input[type=text]{box-sizing:border-box;width:224px;min-width:0;max-width:100%;border:0;border-radius:4px;background:#f1f2f4;padding:6px 8px;color:inherit;font:14px ui-monospace,monospace}.token-row input{flex-shrink:1}.icon{display:grid;place-items:center;width:32px;height:32px;padding:0;background:transparent;color:inherit}.icon svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:1.5}button{cursor:pointer;border:0;border-radius:8px;background:#f0f3f5;padding:8px 12px;font:inherit;color:inherit}button:hover{background:#e5e9ee}button:focus-visible,input:focus-visible{outline:2px solid #1671d9;outline-offset:2px}.toggle{display:flex;align-items:center;gap:8px;color:inherit;margin-bottom:16px}.actions{display:flex;gap:12px;flex-wrap:wrap;align-items:center}.generate{display:flex;gap:8px;align-items:center}.generate svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:1.5}.save{background:#1769dc;color:white}.save:hover{background:#1158be}#status{font-size:12px;line-height:1.5;margin:12px 0 0;color:#68717b}body.embedded{padding:0}.hint{font-size:12px;line-height:1.5;color:#68717b;margin:0 0 16px}
+@media(prefers-color-scheme:dark){:root{color:#eee;background:transparent}.card{background:#242424;border-color:#484848}input[type=password],input[type=text],button{background:#353535}button:hover{background:#444}.save{background:#1769dc}.caption,label,#status,.hint{color:#b2b6bb}.endpoint{color:#b2b6bb}}
+body.embedded .card{border:0;border-radius:0;padding:0;max-width:none;background:transparent}body.embedded h2{display:none}body.embedded label,body.embedded .caption,body.embedded #status{font-size:inherit;color:inherit}body.embedded .toggle input{margin:0;accent-color:#f28b0c}body.embedded .toggle input:disabled{opacity:.5}
+</style>
+</head>
+<body>
+<section class="card" aria-labelledby="heading">
+<h2 id="heading">MCP</h2>
+<div id="endpoint" class="endpoint"><span class="dot" aria-hidden="true"></span><span id="address">http://127.0.0.1:17374/mcp</span></div>
+<form id="config">
+<label class="toggle"><input id="enabled" type="checkbox" disabled>Activer le pont MCP</label>
+<div class="field"><label for="port">Port</label><input id="port" type="number" min="1024" max="65535" value="17374" required></div>
+<div class="field"><span class="caption">Host</span><div class="host">127.0.0.1</div></div>
+<div class="field"><label for="token">Bearer Token</label><div class="token-row">
+<input id="token" type="password" autocomplete="off" spellcheck="false" aria-describedby="status" pattern="[A-Za-z0-9_-]{32,128}">
+<button type="button" id="reveal" class="icon" title="Afficher le token" aria-label="Afficher le token" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12Z"/><circle cx="12" cy="12" r="3"/></svg></button>
+<button type="button" id="copy" class="icon" title="Copier le token" aria-label="Copier le token"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="8" y="8" width="12" height="13" rx="1"/><path d="M16 8V3H4v13h4"/></svg></button>
+</div></div>
+<div class="actions"><button type="button" id="generate" class="generate"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 10a8 8 0 1 0-2 8M20 4v6h-6"/></svg>Régénérer le token</button><button type="submit" class="save">Enregistrer</button></div>
+<p id="status" role="status" aria-live="polite">Chargement…</p>
+</form>
+</section>
+<script src="mcp-options.js"></script>
+</body></html>

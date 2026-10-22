@@ -1,0 +1,466 @@
+{
+   "3pGroupAds": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "ਇਸ਼ਤਿਹਾਰ"
+   },
+   "3pGroupAnnoyances": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "ਅਣਚਾਹੇ"
+   },
+   "3pGroupDefault": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "ਮੂਲ"
+   },
+   "3pGroupImported": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "ਇੰਪੋਰਟ ਕੀਤੀਆਂ ਸੂਚੀਆਂ"
+   },
+   "3pGroupMalware": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "ਮਾਲਵੇਅਰਾਂ ਤੋਂ ਬਚਾਅ, ਸੁਰੱਖਿਆ"
+   },
+   "3pGroupMisc": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "ਫੁਟਕਲ"
+   },
+   "3pGroupPrivacy": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "ਪਰਦੇਦਾਰੀ"
+   },
+   "3pGroupRegions": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "ਖੇਤਰ, ਭਾਸ਼ਾਵਾਂ"
+   },
+   "aboutChangelog": {
+      "description": "",
+      "message": "ਤਬਦੀਲੀ-ਸੂਚੀ"
+   },
+   "aboutCode": {
+      "description": "English: Source code (GPLv3)",
+      "message": "ਸਰੋਤ ਕੋਡ (GPLv3)"
+   },
+   "aboutContributors": {
+      "description": "English: Contributors",
+      "message": "ਯੋਗਦਾਨੀ"
+   },
+   "aboutDependencies": {
+      "description": "Shown in the About pane",
+      "message": "ਬਾਹਰੀ ਨਿਰਭਰਤਾਵਾਂ (GPLv3-ਅਨੁਕੂਲ):"
+   },
+   "aboutDocumentation": {
+      "description": "Link to documentation in About pane",
+      "message": "ਦਸਤਾਵੇਜ਼"
+   },
+   "aboutFilterLists": {
+      "description": "Link text to uBO's own filter lists repo",
+      "message": "ਫਿਲਟਰ ਸੂਚੀਆਂ"
+   },
+   "aboutPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "ਇਸ ਬਾਰੇ"
+   },
+   "aboutPrivacyPolicy": {
+      "description": "Link to privacy policy on GitHub (English)",
+      "message": "ਪਰਦੇਦਾਰੀ ਨੀਤੀ"
+   },
+   "aboutSourceCode": {
+      "description": "Link text to source code repo",
+      "message": "ਸਰੋਤ ਕੋਡ"
+   },
+   "aboutTranslations": {
+      "description": "Link text to translations repo",
+      "message": "ਅਨੁਵਾਦ"
+   },
+   "addButton": {
+      "description": "Text for buttons used to add content",
+      "message": "ਜੋੜੋ"
+   },
+   "autoReloadLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "ਫਿਲਫਰ ਕਰਨ ਦਾ ਢੰਗ ਬਦਲਣ ਦੇ ਬਾਅਦ ਸਫ਼ੇ ਨੂੰ ਆਪਣੇ-ਆਪ ਲੋਡ ਕਰੋ"
+   },
+   "backupButton": {
+      "description": "Text for buttons used to back up content",
+      "message": "ਬੈਕ ਅੱਪ…"
+   },
+   "basicFilteringModeDescription": {
+      "description": "This describes the 'basic' filtering mode",
+      "message": "ਚੁਣੀਆਂ ਫਿਲਟਰ ਸੂਚੀਆਂ ਤੋਂ ਮੁੱਢਲਾ ਨੈੱਟਵਰਕ ਫਿਲਟਰ ਕਰਨਾ।\n\nਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਡਾਟਾ ਪੜ੍ਹਨ ਅਤੇ ਸੋਧਣ ਲਈ ਮਨਜ਼ੂਰੀ ਨਹੀਂ ਚਾਹੀਦੀ ਹੈ।"
+   },
+   "behaviorSectionLabel": {
+      "description": "The header text for the 'Behavior' section",
+      "message": "ਰਵੱਈਆ"
+   },
+   "completeFilteringModeDescription": {
+      "description": "This describes the 'complete' filtering mode",
+      "message": "ਤਕਨੀਕੀ ਨੈੱਟਵਰਕ ਫਿਲਟਰ ਕਰਨ ਤੋਂ ਨਾਲ ਨਾਲ ਚੁਣੀਆਂ ਫਿਲਟਰ ਸੂਚੀਆਂ ਤੋਂ ਖਾਸ ਵਾਧਾ ਕੀਤੇ ਫਿਲਟਰ।\n\nਸਾਰੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਡਾਟਾ ਪੜ੍ਹਨ ਅਤੇ ਸੋਧਣ ਲਈ ਜਿਆਦਾ ਮਨਜ਼ੂਰੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ।\n\nਆਮ ਵਾਧਾ ਕੀਤੀ ਫਿਲਟਰਿੰਗ ਵੱਧ ਵੈੱਬ-ਸਫ਼ਾ ਸਰੋਤ ਵਰਤੇ ਜਾਣ ਦਾ ਕਾਰਨ ਬਣ ਸਕਦੀ ਹੈ।"
+   },
+   "customFiltersImportExportLabel": {
+      "description": "Text label heading the import/export area of custom filters",
+      "message": "ਇੰਪੋਰਟ / ਐਕਸਪੋਰਟ"
+   },
+   "customFiltersImportTextareaPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "ਜੋੜਨ ਲਈ ਖਾਸ ਕਾਸਮੈਟਿਕ/ਸਕ੍ਰਿਪਟਲੈੱਟ ਫਿਲਟਰ"
+   },
+   "customFiltersPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "ਪਸੰਦੀਦਾ ਫਿਲਟਰ"
+   },
+   "customListImportLabel": {
+      "description": "Text label heading the import area of custom filter lists",
+      "message": "…ਫਿਲਟਰ ਸੂਚੀ ਜੋੜੋ"
+   },
+   "customListImportPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "ਜੋੜਨ ਲਈ ਫਿਲਟਰ ਸੂਚੀ ਦਾ URL"
+   },
+   "customListImportUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "To enforce cosmetic or scriptlet filters from imported lists, you must grant uBO Lite permission to run user scripts."
+   },
+   "dashboardName": {
+      "description": "English: uBO Lite — Dashboard",
+      "message": "uBO Lite — ਡੈਸ਼ਬੋਰਡ"
+   },
+   "defaultFilteringModeDescription": {
+      "description": "This describes the default filtering mode setting",
+      "message": "ਮੂਲ ਫਿਲਟਰਿੰਗ ਢੰਗ ਨੂੰ ਹਰ-ਵੈੱਬਸਾਈਟ ਫਿਲਟਰਿੰਗ ਢੰਗਾਂ ਰਾਹੀਂ ਅਣਡਿੱਠਾ ਕੀਤਾ ਜਾਵੇਗਾ। ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਵੈੱਬਸਾਈਟ ਲਈ ਫਿਲਟਰ ਕਰਨ ਦੇ ਢੰਗ ਨੂੰ ਉਸ ਵੈੱਬਸਾਈਟ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਕੰਮ ਕਰਦੇ ਢੰਗ ਮੁਤਾਬਕ ਅਡਜੱਸਟ ਕਰ ਸਕਦੇ ਹੋ। ਹਰ ਢੰਗ ਦੇ ਆਪਣੇ ਫਾਇਦੇ ਅਤੇ ਆਪਣੇ ਨੁਕਸਾਨ ਹਨ।"
+   },
+   "defaultFilteringModeSectionLabel": {
+      "description": "The header text for the default filtering mode section",
+      "message": "ਮੂਲ ਫਿਲਟਰ ਕਰਨ ਦਾ ਢੰਗ"
+   },
+   "developDropdownLabel": {
+      "description": "A label of a dropdown list",
+      "message": "ਵੇਖੋ:"
+   },
+   "developOptionCustomDnrRules": {
+      "description": "An option in a dropdown list",
+      "message": "ਕਸਟਮ DNR ਨਿਯਮ"
+   },
+   "developOptionDnrRulesOf": {
+      "description": "A section header in a dropdown list",
+      "message": "…ਦੇ DNR ਨਿਯਮ"
+   },
+   "developOptionDynamicRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "ਡਾਇਨਾਮਿਕ ਨਿਯਮ-ਸੈੱਟ"
+   },
+   "developOptionFilteringModeDetails": {
+      "description": "An option in a dropdown list",
+      "message": "ਫਿਲਟਰਿੰਗ ਮੋਡ ਵੇਰਵੇ"
+   },
+   "developOptionSessionRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "ਸੈਸ਼ਨ ਨਿਯਮ-ਸੈੱਟ"
+   },
+   "developPageName": {
+      "description": "appears as tab name in dashboard. Inspired from 'Develop' menu in Safari, see https://developer.apple.com/documentation/safari-developer-tools/develop-menu",
+      "message": "ਡਿਵੈਲਪ"
+   },
+   "developerModeLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "ਡਿਵੈਲਪਰ ਮੋਡ"
+   },
+   "developerModeLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "ਤਕਨੀਕੀ ਉਪਭੋਗਤਾਵਾਂ ਲਈ ਢੁਕਵੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਤੱਕ ਪਹੁੰਚ ਨੂੰ ਸਮਰੱਥ ਬਣਾਉਂਦਾ ਹੈ।"
+   },
+   "dnrRulesCountInfo": {
+      "description": "Short sentence to report the number of currently registered DNR rules",
+      "message": "ਰਜਿਸਟੜ ਕੀਤੇ ਨਿਯਮਾਂ ਦੀ ਗਿਣਤੀ: {count}"
+   },
+   "dnrRulesWarning": {
+      "description": "Short description of the DNR rules editor pane",
+      "message": "ਗ਼ੈਰ-ਭਰੋਸੇਯੋਗ ਸਰੋਤਾਂ ਤੋਂ ਸਮੱਗਰੀ ਨੂੰ ਨਾ ਜੋੜੋ"
+   },
+   "enablePopupBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "ਪੌਪ-ਅੱਪ ਬਲਾਕਿੰਗ ਸਮਰੱਥ ਕਰੋ"
+   },
+   "enablePopupBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "ਜਦੋਂ ਸਰਗਰਮ ਹੁੰਦਾ ਹੈ, ਤਾਂ ਮੇਲ ਖਾਂਦੇ ਫਿਲਟਰ ਆਪਣੇ ਆਪ ਵੈੱਬਸਾਈਟਾਂ ਦੁਆਰਾ ਬਣਾਏ ਗਏ ਅਣਚਾਹੇ ਬ੍ਰਾਊਜ਼ਰ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰ ਦੇਣਗੇ।"
+   },
+   "enableStrictBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "ਸਖ਼ਤ ਪਾਬੰਦੀਆਂ ਨੂੰ ਸਮਰੱਥ ਕਰੋ"
+   },
+   "enableStrictBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "ਸੰਭਾਵੀ ਤੌਰ 'ਤੇ ਅਣਚਾਹੇ ਸਾਈਟਾਂ 'ਤੇ ਨੈਵੀਗੇਸ਼ਨ ਨੂੰ ਬਲੌਕ ਕੀਤਾ ਜਾਵੇਗਾ, ਅਤੇ ਤੁਹਾਨੂੰ ਅੱਗੇ ਵਧਣ ਦਾ ਵਿਕਲਪ ਦਿੱਤਾ ਜਾਵੇਗਾ।"
+   },
+   "exportButton": {
+      "description": "Text for buttons used to export content",
+      "message": "ਐਕਸਪੋਰਟ…"
+   },
+   "extName": {
+      "description": "extension name.",
+      "message": "uBlock Origin Lite"
+   },
+   "extShortDesc": {
+      "description": "this will be in the Chrome web store: must be 132 characters or less",
+      "message": "ਮਨਜ਼ੂਰੀਆਂ ਤੋਂ ਬਿਨਾਂ ਵਾਲਾ ਸਮੱਗਰੀ ਬਲਾਕਰ ਹੈ। ਇਸ਼ਤਿਹਾਰ, ਟਰੈਕਰਾਂ, ਮਾਈਨਰਾਂ ਅਤੇ ਹੋਰਾਂ ਉੱਤੇ ਇੰਸਟਾਲ ਕਰਨ ਤੋਂ ਫ਼ੌਰਨ ਬਾਅਦ ਪਾਬੰਦੀ ਲਾਉਂਦਾ ਹੈ।"
+   },
+   "filteringMode0Name": {
+      "description": "Name of blocking mode 0",
+      "message": "ਕੋਈ ਫਿਲਟਰ ਨਹੀਂ ਕਰਨਾ"
+   },
+   "filteringMode1Name": {
+      "description": "Name of blocking mode 1",
+      "message": "ਮੁੱਢਲਾ"
+   },
+   "filteringMode2Name": {
+      "description": "Name of blocking mode 2",
+      "message": "ਅਨੁਕੂਲ"
+   },
+   "filteringMode3Name": {
+      "description": "Name of blocking mode 3",
+      "message": "ਪੂਰਾ"
+   },
+   "findListsPlaceholder": {
+      "description": "Placeholder for the input field used to find lists",
+      "message": "ਸੂਚੀਆਂ ਲੱਭੋ"
+   },
+   "importAndAppendButton": {
+      "description": "Text for buttons used to import and append content",
+      "message": "ਇੰਪੋਰਟ ਕਰੋ ਤੇ ਜੋੜੋ…"
+   },
+   "noFilteringModeDescription": {
+      "description": "A short description for the editable field which lists trusted sites",
+      "message": "ਹੋਸਟ-ਨਾਵਾਂ ਦੀ ਸੂਚੀ, ਜਿਨ੍ਹਾਂ ਲਈ ਕੋਈ ਫਿਲਟਰ ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ"
+   },
+   "noFilteringModePlaceholder": {
+      "description": "Default text for in edit field",
+      "message": "[ਸਿਰਫ਼ ਹੋਸਟ-ਨਾਂ]\nexample.com\ngames.example\n..."
+   },
+   "optimalFilteringModeDescription": {
+      "description": "This describes the 'optimal' filtering mode",
+      "message": "ਤਕਨੀਕੀ ਨੈੱਟਵਰਕ ਫਿਲਟਰ ਕਰਨ ਤੋਂ ਨਾਲ ਨਾਲ ਚੁਣੀਆਂ ਫਿਲਟਰ ਸੂਚੀਆਂ ਤੋਂ ਖਾਸ ਵਾਧਾ ਕੀਤੇ ਫਿਲਟਰ।\n\nਸਾਰੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਡਾਟਾ ਪੜ੍ਹਨ ਅਤੇ ਸੋਧਣ ਲਈ ਜਿਆਦਾ ਮਨਜ਼ੂਰੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ।"
+   },
+   "perRulesetStats": {
+      "description": "Appears aside each filter list in the _3rd-party filters_ pane",
+      "message": "{{ruleCount}} ਨਿਯਮ, {{filterCount}} ਨੈੱਟਵਰਕ ਫਿਲਟਰ ਤੋਂ ਬਦਲੇ ਗਏ"
+   },
+   "pickerCreate": {
+      "description": "Text for the button to create the filter",
+      "message": "ਬਣਾਓ"
+   },
+   "pickerPick": {
+      "description": "Text for the button to re-enter element-picking mode",
+      "message": "ਚੁਣੋ"
+   },
+   "pickerPreview": {
+      "description": "Text for the button to activate preview mode",
+      "message": "ਝਲਕ"
+   },
+   "pickerSliderLabel": {
+      "description": "Label to describe the purpose of the slider",
+      "message": "ਸਭ ਤੋਂ ਵਧੀਆ ਮੈਚ ਚੁਣਨ ਲਈ ਸਲਾਈਡਰ ਨੂੰ ਘੁਮਾਓ"
+   },
+   "pickerTipEnter": {
+      "description": "Label for the menu entry to create cosmetic filters",
+      "message": "ਕਸਟਮ ਫਿਲਟਰ ਬਣਾਓ"
+   },
+   "popupFilteringModeLabel": {
+      "description": "Label in the popup panel for the current filtering mode",
+      "message": "ਫਿਲਟਰ ਕਰਨ ਦਾ ਮੋਡ"
+   },
+   "popupLessButton": {
+      "description": "Label to be used to hide popup panel sections",
+      "message": "ਘੱਟ"
+   },
+   "popupLocalToolsLabel": {
+      "description": "Label in the popup panel for the local tools section",
+      "message": "ਇਸ ਵੈੱਬਸਾਈਟ ਉੱਤੇ"
+   },
+   "popupMoreButton": {
+      "description": "Label to be used to show popup panel sections",
+      "message": "ਹੋਰ"
+   },
+   "popupNoWebsite": {
+      "description": "Used when popup panel is opened for a local web page",
+      "message": "ਵੈੱਬਸਾਈਟ ਨਹੀਂ ਹੈ"
+   },
+   "popupTipDashboard": {
+      "description": "English: Click to open the dashboard",
+      "message": "ਡੈਸ਼ਬੋਰਡ ਨੂੰ ਖੋਲ੍ਹੋ"
+   },
+   "popupTipReport": {
+      "description": "Tooltip used for the 'chat' icon in the panel",
+      "message": "ਇਸ ਵੈੱਬਸਾਈਟ ਉੱਤੇ ਮਸਲੇ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ"
+   },
+   "resetToDefaultButton": {
+      "description": "Text for buttons used to reset configurations to default",
+      "message": "ਡਿਫੌਲਟ ਸੈਟਿੰਗਾਂ 'ਤੇ ਰੀਸੈਟ ਕਰੋ…"
+   },
+   "resetToDefaultConfirm": {
+      "description": "Message asking user to confirm reset to default settings",
+      "message": "ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਕਸਟਮ ਸੈਟਿੰਗਾਂ ਹਟਾ ਦਿੱਤੀਆਂ ਜਾਣਗੀਆਂ। ਕੀ ਤੁਸੀਂ ਸੱਚਮੁੱਚ ਡਿਫੌਲਟ ਸੈਟਿੰਗਾਂ 'ਤੇ ਰੀਸੈਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"
+   },
+   "restoreButton": {
+      "description": "Text for buttons used to restore content",
+      "message": "ਬਹਾਲ ਕਰੋ…"
+   },
+   "revertButton": {
+      "description": "Text for buttons used to revert changes",
+      "message": "ਵਾਪਸ ਲਵੋ"
+   },
+   "sandboxEditorLabel": {
+      "description": "Header for filter-creation section in the dashboard",
+      "message": "ਫਿਲਟਰ-ਨਿਰਮਾਣ ਸੈਂਡਬਾਕਸ"
+   },
+   "sandboxEditorUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "To enforce cosmetic or scriptlet filters from the sandbox, you must grant uBO Lite permission to run user scripts."
+   },
+   "saveButton": {
+      "description": "Text for buttons used to save changes",
+      "message": "ਸੰਭਾਲੋ"
+   },
+   "settingsBackupRestoreLabel": {
+      "description": "The header text for the back up/restore section",
+      "message": "ਬੈਕਅੱਪ"
+   },
+   "settingsBackupRestoreLegend": {
+      "description": "Important information about the back up/restore section.",
+      "message": "ਰੀਸਟੋਰ ਕਰਨ ਨਾਲ ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਮੌਜੂਦਾ ਕਸਟਮ ਸੈਟਿੰਗਾਂ ਓਵਰਰਾਈਟ ਹੋ ਜਾਣਗੀਆਂ।"
+   },
+   "settingsBackupRestoreSummary": {
+      "description": "A summary description of the back up/restore section.",
+      "message": "ਆਪਣੀਆਂ ਕਸਟਮ ਸੈਟਿੰਗਾਂ ਨੂੰ ਇੱਕ ਫਾਈਲ ਵਿੱਚ ਬੈਕਅੱਪ ਕਰੋ, ਜਾਂ ਆਪਣੀਆਂ ਕਸਟਮ ਸੈਟਿੰਗਾਂ ਨੂੰ ਇੱਕ ਫਾਈਲ ਤੋਂ ਰੀਸਟੋਰ ਕਰੋ।"
+   },
+   "settingsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "ਸੈਟਿੰਗਾਂ"
+   },
+   "showBlockedCountLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "ਟੂਲ-ਪੱਟੀ ਆਈਕਾਨ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈਆਂ ਬੇਨਤੀਆਂ ਦੀ ਗਿਣਤੀ ਦਿਖਾਓ"
+   },
+   "strictblockBack": {
+      "description": "A button to go back to the previous web page",
+      "message": "ਪਿੱਛੇ ਜਾਓ"
+   },
+   "strictblockClose": {
+      "description": "A button to close the current tab",
+      "message": "ਇਹ ਵਿੰਡੋ ਨੂੰ ਬੰਦ ਕਰੋ"
+   },
+   "strictblockDontWarn": {
+      "description": "Label for checkbox in document-blocked page",
+      "message": "ਇਸ ਸਾਈਟ ਬਾਰੇ ਮੈਨੂੰ ਮੁੜ ਚੇਤਾਵਨੀ ਨਾ ਦਿਓ"
+   },
+   "strictblockNoParamsPrompt": {
+      "description": "Label to be used for the parameter-less URL",
+      "message": "ਬਿਨਾਂ ਪੈਰਾਮੀਟਰ"
+   },
+   "strictblockProceed": {
+      "description": "A button to navigate to the blocked page",
+      "message": "ਜਾਰੀ ਰੱਖੋ"
+   },
+   "strictblockReasonSentence1": {
+      "description": "Text informing about what is causing the page to be blocked",
+      "message": "ਪੰਨਾ {{listname}} ਵਿੱਚ ਇੱਕ ਮੇਲ ਖਾਂਦੇ ਫਿਲਟਰ ਕਾਰਨ ਬਲੌਕ ਕੀਤਾ ਗਿਆ ਸੀ।"
+   },
+   "strictblockRedirectSentence1": {
+      "description": "Text warning about an incoming redirect",
+      "message": "ਬਲੌਕ ਕੀਤਾ ਪੰਨਾ ਕਿਸੇ ਹੋਰ ਸਾਈਟ 'ਤੇ ਰੀਡਾਇਰੈਕਟ ਕਰਨਾ ਚਾਹੁੰਦਾ ਹੈ। ਜੇਕਰ ਤੁਸੀਂ ਅੱਗੇ ਵਧਣਾ ਚੁਣਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਸਿੱਧੇ ਇਸ 'ਤੇ ਨੈਵੀਗੇਟ ਕਰੋਗੇ: {{url}}"
+   },
+   "strictblockSentence1": {
+      "description": "Sentence used in the strict-blocked page",
+      "message": "uBO Lite ਨੇ ਅੱਗੇ ਦਿੱਤੇ ਸਫ਼ੇ ਨੂੰ ਲੋਡ ਹੋਣ ਤੋਂ ਰੋਕਿਆ ਹੈ:"
+   },
+   "strictblockTitle": {
+      "description": "Web page title for the strict-blocked page",
+      "message": "ਸਫ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਹੈ"
+   },
+   "supportFindSpecificButton": {
+      "description": "A clickable link in the filter issue reporter section",
+      "message": "ਰਲਦੀਆਂ ਰਿਪੋਰਟਾਂ ਲੱਭੋ"
+   },
+   "supportReportSpecificButton": {
+      "description": "Text for button which opens an external web page in Support pane",
+      "message": "ਨਵੀਂ ਰਿਪੋਰਟ ਬਣਾਓ"
+   },
+   "supportS3P1": {
+      "description": "First paragraph of 'Filter issues' section in Support pane",
+      "message": "ਖਾਸ ਵੈੱਬਸਾਈਟਾਂ ਨਾਲ ਫਿਲਟਰ ਸਮੱਸਿਆਵਾਂ ਦੀ ਰਿਪੋਰਟ \u003Cspan data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\">\u003Ccode>uBlockOrigin/uAssets\u003C/code> ਇਸ਼ੂ ਟਰੈਕਰ\u003C/span> ਨੂੰ ਕਰੋ। \u003Cu>ਇੱਕ GitHub ਖਾਤੇ ਦੀ ਲੋੜ ਹੈ।\u003C/u>"
+   },
+   "supportS5H": {
+      "description": "Label of 'Troubleshooting information' section in 'Report a filter issue' page",
+      "message": "ਸਮੱਸਿਆ ਹੱਲ ਕਰਨ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ"
+   },
+   "supportS6Checkbox1": {
+      "description": "A checkbox to use for NSFW sites",
+      "message": "ਵੈੱਬ ਪੰਨੇ ਨੂੰ “NSFW” ਵਜੋਂ ਲੇਬਲ ਕਰੋ (\u003Ca href=\"https://wikipedia.org/wiki/Not_safe_for_work\">“ਕੰਮ ਲਈ ਸੁਰੱਖਿਅਤ ਨਹੀਂ”\u003C/a>)"
+   },
+   "supportS6H": {
+      "description": "Header of 'Report a filter issue' section in Support pane",
+      "message": "ਫਿਲਟਰ ਮਸਲੇ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ"
+   },
+   "supportS6P1S1": {
+      "description": "A paragraph in the filter issue reporter section",
+      "message": "ਵਾਲੰਟੀਅਰਾਂ ਨੂੰ ਡੁਪਲੀਕੇਟ ਰਿਪੋਰਟਾਂ ਨਾਲ ਬੋਝ ਪਾਉਣ ਤੋਂ ਬਚਣ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਇਸ ਸਮੱਸਿਆ ਦੀ ਰਿਪੋਰਟ ਪਹਿਲਾਂ ਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ ਹੈ। \u003Cb>ਨੋਟ:\u003C/b> ਬਟਨ 'ਤੇ ਕਲਿੱਕ ਕਰਨ ਨਾਲ ਪੰਨੇ ਦਾ ਮੂਲ GitHub ਨੂੰ ਭੇਜਿਆ ਜਾਵੇਗਾ।"
+   },
+   "supportS6Select1": {
+      "description": "Label for widget to select type of issue",
+      "message": "ਵੈੱਬ ਸਫ਼ਾ…"
+   },
+   "supportS6Select1Option0": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "-- ਐਂਟਰੀ ਚੁਣੋ --"
+   },
+   "supportS6Select1Option1": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "ਇਸ਼ਤਿਹਾਰ ਜਾਂ ਇਸ਼ਤਿਹਾਰ ਦੀ ਰਹਿੰਦ-ਖੂੰਦ ਦਿਖਾਉਂਦਾ ਹੈ"
+   },
+   "supportS6Select1Option2": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "ਓਵਰਲੇ ਜਾਂ ਹੋਰ ਪਰੇਸ਼ਾਨੀਆਂ ਹਨ"
+   },
+   "supportS6Select1Option3": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "uBO Lite ਮਿਲਿਆ"
+   },
+   "supportS6Select1Option4": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "ਪਰਦੇਦਾਰੀ ਸੰਬੰਧੀ ਮਸਲੇ ਹਨ"
+   },
+   "supportS6Select1Option5": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "ਜਦੋਂ uBO Lite ਸਮਰੱਥ ਹੁੰਦਾ ਹੈ ਤਾਂ ਖਰਾਬੀ"
+   },
+   "supportS6Select1Option6": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "ਬੇਲੋੜੀਆਂ ਟੈਬਾਂ ਜਾਂ ਵਿੰਡੋ ਖੋਲ੍ਹਦਾ ਹੈ"
+   },
+   "supportS6Select1Option7": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "ਬੈਡਵੇਅਰ, ਫਿਸ਼ਿੰਗ ਵੱਲ ਲੈ ਜਾਂਦਾ ਹੈ"
+   },
+   "supportS6URL": {
+      "description": "Label for the URL of the page",
+      "message": "ਵੈੱਬ-ਸਫ਼ੇ ਦਾ ਸਿਰਨਾਵਾਂ:"
+   },
+   "unpickerTipEnter": {
+      "description": "Label for the menu entry to delete cosmetic filters",
+      "message": "ਕਸਟਮ ਫਿਲਟਰ ਨੂੰ ਹਟਾਓ"
+   },
+   "unpickerUsage": {
+      "description": "Summary description on how to use the tool to remove custom filters",
+      "message": "ਵੈੱਬ ਪੰਨੇ ਵਿੱਚ ਮੇਲ ਖਾਂਦੇ ਤੱਤਾਂ ਨੂੰ ਉਜਾਗਰ ਕਰਨ ਲਈ ਹੇਠਾਂ ਇੱਕ ਫਿਲਟਰ ਚੁਣੋ। ਇੱਕ ਫਿਲਟਰ ਨੂੰ ਹਟਾਉਣ ਲਈ ਰੱਦੀ ਵਾਲੇ ਡੱਬੇ 'ਤੇ ਕਲਿੱਕ ਕਰੋ।"
+   },
+   "userScriptsInfo": {
+      "description": "A notice to inform user on how to enable 'user scripts' permission",
+      "message": "ਆਪਣੇ ਬ੍ਰਾਊਜ਼ਰ ਦਾ ਐਕਸਟੈਂਸ਼ਨ ਪੰਨਾ ਖੋਲ੍ਹੋ (\u003Ccode>chrome://extensions\u003C/code> Chrome ਵਿੱਚ ਜਾਂ \u003Ccode>about:addons\u003C/code> Firefox ਵਿੱਚ), \u003Cb>uBO Lite\u003C/b> ਵੇਰਵੇ ਖੋਲ੍ਹੋ, ਅਤੇ \u003Cb>Allow user scripts\u003C/b> (ਜਿਸਨੂੰ “ਅਣਪ੍ਰਮਾਣਿਤ ਤੀਜੀ-ਧਿਰ ਸਕ੍ਰਿਪਟਾਂ” ਵੀ ਕਿਹਾ ਜਾਂਦਾ ਹੈ) ਨੂੰ ਚਾਲੂ ਕਰੋ।"
+   },
+   "zapperTipEnter": {
+      "description": "Tooltip for the button used to enter zapper mode",
+      "message": "ਇੱਕ ਭਾਗ ਨੂੰ ਹਟਾਓ"
+   },
+   "zapperTipQuit": {
+      "description": "Tooltip for the button used to exit zapper mode",
+      "message": "ਐਲੀਮੈਂਟ ਜੈਪਰ ਮੋਡ ਤੋਂ ਬਾਹਰ ਨਿਕਲੋ"
+   }
+}

@@ -1,0 +1,466 @@
+{
+   "3pGroupAds": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Advertinsjes"
+   },
+   "3pGroupAnnoyances": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Steurende eleminten"
+   },
+   "3pGroupDefault": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Standert"
+   },
+   "3pGroupImported": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Ymportearre listen"
+   },
+   "3pGroupMalware": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Beskerming tsjin malware, befeiliging"
+   },
+   "3pGroupMisc": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Diversken"
+   },
+   "3pGroupPrivacy": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Privacy"
+   },
+   "3pGroupRegions": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Gebieden, talen"
+   },
+   "aboutChangelog": {
+      "description": "",
+      "message": "Wizigingslochboek"
+   },
+   "aboutCode": {
+      "description": "English: Source code (GPLv3)",
+      "message": "Boarnekoade (GPLv3)"
+   },
+   "aboutContributors": {
+      "description": "English: Contributors",
+      "message": "Meiwurkers"
+   },
+   "aboutDependencies": {
+      "description": "Shown in the About pane",
+      "message": "Eksterne ôfhinklikheden (GPLv3-kompatibel):"
+   },
+   "aboutDocumentation": {
+      "description": "Link to documentation in About pane",
+      "message": "Dokumintaasje"
+   },
+   "aboutFilterLists": {
+      "description": "Link text to uBO's own filter lists repo",
+      "message": "Filterlisten"
+   },
+   "aboutPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Oer"
+   },
+   "aboutPrivacyPolicy": {
+      "description": "Link to privacy policy on GitHub (English)",
+      "message": "Privacybelied"
+   },
+   "aboutSourceCode": {
+      "description": "Link text to source code repo",
+      "message": "Boarnekoade"
+   },
+   "aboutTranslations": {
+      "description": "Link text to translations repo",
+      "message": "Oersettingen"
+   },
+   "addButton": {
+      "description": "Text for buttons used to add content",
+      "message": "Tafoegje"
+   },
+   "autoReloadLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Side automatysk fernije by wizigjen fan filtermodus"
+   },
+   "backupButton": {
+      "description": "Text for buttons used to back up content",
+      "message": "Reservekopy meitje…"
+   },
+   "basicFilteringModeDescription": {
+      "description": "This describes the 'basic' filtering mode",
+      "message": "Basale netwurkfiltering fan selektearre filterlisten út.\n\nFereasket gjin tastimming foar it lêzen en wizigjen fan gegevens op websites."
+   },
+   "behaviorSectionLabel": {
+      "description": "The header text for the 'Behavior' section",
+      "message": "Gedrach"
+   },
+   "completeFilteringModeDescription": {
+      "description": "This describes the 'complete' filtering mode",
+      "message": "Avansearre netwurkfiltering plus spesifike en algemiene wiidweidige filtering fan selektearre filterlisten út.\n\nFereasket brede tastimming foar it lêzen en wizigjen fan gegevens op alle websites.\n\nAlgemiene wiidweidige filtering kin in heger gebrûk fan websideboarnen feroarsaakje."
+   },
+   "customFiltersImportExportLabel": {
+      "description": "Text label heading the import/export area of custom filters",
+      "message": "Ymportearje / Eksportearje"
+   },
+   "customFiltersImportTextareaPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "Spesifike kosmetyske of scriptletfilters om ta te foegjen"
+   },
+   "customFiltersPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Oanpaste filters"
+   },
+   "customListImportLabel": {
+      "description": "Text label heading the import area of custom filter lists",
+      "message": "Filterlist tafoegje…"
+   },
+   "customListImportPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "URL fan de ta te foegjen filterlist"
+   },
+   "customListImportUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "Om kosmetyske of scriptletfilters fan ymportearre listen út ta te passen, moatte jo uBO Lite tastimming jaan foar it útfieren fan brûkersscripts."
+   },
+   "dashboardName": {
+      "description": "English: uBO Lite — Dashboard",
+      "message": "uBO Lite – Dashboerd"
+   },
+   "defaultFilteringModeDescription": {
+      "description": "This describes the default filtering mode setting",
+      "message": "De standert filtermodus wurdt negearre troch filtermodi per website. Jo kinne de filtermodus op in winske website oanpasse nei de modus dy’t op dy website it bêste wurket. Elke modus hat foar- en neidielen."
+   },
+   "defaultFilteringModeSectionLabel": {
+      "description": "The header text for the default filtering mode section",
+      "message": "Standert filtermodus"
+   },
+   "developDropdownLabel": {
+      "description": "A label of a dropdown list",
+      "message": "Werjefte:"
+   },
+   "developOptionCustomDnrRules": {
+      "description": "An option in a dropdown list",
+      "message": "Oanpaste DNR-regels"
+   },
+   "developOptionDnrRulesOf": {
+      "description": "A section header in a dropdown list",
+      "message": "DNR-regels fan …"
+   },
+   "developOptionDynamicRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "Dynamyske regelset"
+   },
+   "developOptionFilteringModeDetails": {
+      "description": "An option in a dropdown list",
+      "message": "Details fan filtermodus"
+   },
+   "developOptionSessionRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "Sesjeregelset"
+   },
+   "developPageName": {
+      "description": "appears as tab name in dashboard. Inspired from 'Develop' menu in Safari, see https://developer.apple.com/documentation/safari-developer-tools/develop-menu",
+      "message": "Untwikkelje"
+   },
+   "developerModeLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Untwikkelersmodus"
+   },
+   "developerModeLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "Skeakelet tagong ta foar technyske brûkers geskikte funksjes yn."
+   },
+   "dnrRulesCountInfo": {
+      "description": "Short sentence to report the number of currently registered DNR rules",
+      "message": "Oantal registrearre regels: {count}"
+   },
+   "dnrRulesWarning": {
+      "description": "Short description of the DNR rules editor pane",
+      "message": "Foegje gjin ynhâld fan net-fertroude boarnen ta."
+   },
+   "enablePopupBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Pop-upblokkearring ynskeakelje"
+   },
+   "enablePopupBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "Wannear aktyf, slute oerienkommende filters automatysk net-winske browserljepblêden dy’t troch websites oanmakke binne."
+   },
+   "enableStrictBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Strange blokkearring ynskeakelje"
+   },
+   "enableStrictBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "Navigaasje nei potinsjeel net-winske websites wurdt blokkearre, en jo krije de opsje om troch te gean."
+   },
+   "exportButton": {
+      "description": "Text for buttons used to export content",
+      "message": "Eksportearje…"
+   },
+   "extName": {
+      "description": "extension name.",
+      "message": "uBlock Origin Lite"
+   },
+   "extShortDesc": {
+      "description": "this will be in the Chrome web store: must be 132 characters or less",
+      "message": "In, tastimmingsleaze ynhâldsblokkearder. Blokkearret daliks nei ynstallaasje advertinsjes, trackers, miners en mear."
+   },
+   "filteringMode0Name": {
+      "description": "Name of blocking mode 0",
+      "message": "gjin filtering"
+   },
+   "filteringMode1Name": {
+      "description": "Name of blocking mode 1",
+      "message": "basis"
+   },
+   "filteringMode2Name": {
+      "description": "Name of blocking mode 2",
+      "message": "optimaal"
+   },
+   "filteringMode3Name": {
+      "description": "Name of blocking mode 3",
+      "message": "folslein"
+   },
+   "findListsPlaceholder": {
+      "description": "Placeholder for the input field used to find lists",
+      "message": "Listen sykje"
+   },
+   "importAndAppendButton": {
+      "description": "Text for buttons used to import and append content",
+      "message": "Ymportearje en tafoegje…"
+   },
+   "noFilteringModeDescription": {
+      "description": "A short description for the editable field which lists trusted sites",
+      "message": "List fan hostnammen wêrfoar gjin filtering plakfynt."
+   },
+   "noFilteringModePlaceholder": {
+      "description": "Default text for in edit field",
+      "message": "[allinnich hostnammen]\nexample.com\ngames.example\n…"
+   },
+   "optimalFilteringModeDescription": {
+      "description": "This describes the 'optimal' filtering mode",
+      "message": "Avansearre netwurkfiltering plus spesifike wiidweidige filtering fan selektearre filterlisten út.\n\nFereasket brede tastimming foar it lêzen en wizigjen fan gegevens op alle websites."
+   },
+   "perRulesetStats": {
+      "description": "Appears aside each filter list in the _3rd-party filters_ pane",
+      "message": "{{ruleCount}} rigels, konvertearre út {{filterCount}} netwurkfilters"
+   },
+   "pickerCreate": {
+      "description": "Text for the button to create the filter",
+      "message": "Oanmeitsje"
+   },
+   "pickerPick": {
+      "description": "Text for the button to re-enter element-picking mode",
+      "message": "Kieze"
+   },
+   "pickerPreview": {
+      "description": "Text for the button to activate preview mode",
+      "message": "Foarbyld"
+   },
+   "pickerSliderLabel": {
+      "description": "Label to describe the purpose of the slider",
+      "message": "Ferpleats de skowregeler foar de beste oerienkomst"
+   },
+   "pickerTipEnter": {
+      "description": "Label for the menu entry to create cosmetic filters",
+      "message": "In oanpast filter meitsje"
+   },
+   "popupFilteringModeLabel": {
+      "description": "Label in the popup panel for the current filtering mode",
+      "message": "filtermodus"
+   },
+   "popupLessButton": {
+      "description": "Label to be used to hide popup panel sections",
+      "message": "Minder"
+   },
+   "popupLocalToolsLabel": {
+      "description": "Label in the popup panel for the local tools section",
+      "message": "Op dizze website"
+   },
+   "popupMoreButton": {
+      "description": "Label to be used to show popup panel sections",
+      "message": "Mear"
+   },
+   "popupNoWebsite": {
+      "description": "Used when popup panel is opened for a local web page",
+      "message": "gjin website"
+   },
+   "popupTipDashboard": {
+      "description": "English: Click to open the dashboard",
+      "message": "Dashboerd iepenje"
+   },
+   "popupTipReport": {
+      "description": "Tooltip used for the 'chat' icon in the panel",
+      "message": "In probleem melde"
+   },
+   "resetToDefaultButton": {
+      "description": "Text for buttons used to reset configurations to default",
+      "message": "Standertynstellingen weromsette…"
+   },
+   "resetToDefaultConfirm": {
+      "description": "Message asking user to confirm reset to default settings",
+      "message": "Al jo oanpaste ynstellingen sille fuortsmiten wurde. Wolle jo de standertynstellingen echt weromsette?"
+   },
+   "restoreButton": {
+      "description": "Text for buttons used to restore content",
+      "message": "Weromsette…"
+   },
+   "revertButton": {
+      "description": "Text for buttons used to revert changes",
+      "message": "Ungedien meitsje"
+   },
+   "sandboxEditorLabel": {
+      "description": "Header for filter-creation section in the dashboard",
+      "message": "Sandbox foar it oanmeitsjen fan filters"
+   },
+   "sandboxEditorUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "Om kosmetyske of scriptletfilters fan de sandbox út ta te passen, moatte jo uBO Lite tastimming jaan foar it útfieren fan brûkersscripts."
+   },
+   "saveButton": {
+      "description": "Text for buttons used to save changes",
+      "message": "Bewarje"
+   },
+   "settingsBackupRestoreLabel": {
+      "description": "The header text for the back up/restore section",
+      "message": "Reservekopy"
+   },
+   "settingsBackupRestoreLegend": {
+      "description": "Important information about the back up/restore section.",
+      "message": "Weromsette oerskriuwt al jo aktuele oanpaste ynstellingen."
+   },
+   "settingsBackupRestoreSummary": {
+      "description": "A summary description of the back up/restore section.",
+      "message": "Meitsje i reservekopy fan jo oanpaste ynstellingen neiei bestân, of set jo oanpaste ynstellingen werom fan in bestân út."
+   },
+   "settingsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Ynstellingen"
+   },
+   "showBlockedCountLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "It tal blokkearre oanfragen op it arkbalkepiktogram toane"
+   },
+   "strictblockBack": {
+      "description": "A button to go back to the previous web page",
+      "message": "Tebek"
+   },
+   "strictblockClose": {
+      "description": "A button to close the current tab",
+      "message": "Dit finster slute"
+   },
+   "strictblockDontWarn": {
+      "description": "Label for checkbox in document-blocked page",
+      "message": "My net mear warskôgje oer dizze website"
+   },
+   "strictblockNoParamsPrompt": {
+      "description": "Label to be used for the parameter-less URL",
+      "message": "sûnder parameters"
+   },
+   "strictblockProceed": {
+      "description": "A button to navigate to the blocked page",
+      "message": "Tochgean"
+   },
+   "strictblockReasonSentence1": {
+      "description": "Text informing about what is causing the page to be blocked",
+      "message": "De side is blokkearre fanwegen in oerienkommend filter yn {{listname}}."
+   },
+   "strictblockRedirectSentence1": {
+      "description": "Text warning about an incoming redirect",
+      "message": "De blokkearre side wol jo omliede nei in oare website. As jo trochgean, navigearje jo streekrjocht nei: {{url}}"
+   },
+   "strictblockSentence1": {
+      "description": "Sentence used in the strict-blocked page",
+      "message": "uBO Lite hat it laden fan de folgjende side opkeard:"
+   },
+   "strictblockTitle": {
+      "description": "Web page title for the strict-blocked page",
+      "message": "Side blokkearre"
+   },
+   "supportFindSpecificButton": {
+      "description": "A clickable link in the filter issue reporter section",
+      "message": "Soartgelikense meldingen sykje"
+   },
+   "supportReportSpecificButton": {
+      "description": "Text for button which opens an external web page in Support pane",
+      "message": "Nije melding meitsje"
+   },
+   "supportS3P1": {
+      "description": "First paragraph of 'Filter issues' section in Support pane",
+      "message": "Meld filterproblemen mei spesifike websites yn de \u003Cspan data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\">\u003Ccode>uBlockOrigin/uAssets\u003C/code>-probleemtracker\u003C/span>. \u003Cu>Fereasket in GitHub-account.\u003C/u>"
+   },
+   "supportS5H": {
+      "description": "Label of 'Troubleshooting information' section in 'Report a filter issue' page",
+      "message": "Probleemoplossingsynformaasje"
+   },
+   "supportS6Checkbox1": {
+      "description": "A checkbox to use for NSFW sites",
+      "message": "De webside labelje as ‘NSFW’ (\u003Ca href=\"https://wikipedia.org/wiki/Not_safe_for_work\">‘Not Safe For Work’\u003C/a>)"
+   },
+   "supportS6H": {
+      "description": "Header of 'Report a filter issue' section in Support pane",
+      "message": "In filterprobleem melde"
+   },
+   "supportS6P1S1": {
+      "description": "A paragraph in the filter issue reporter section",
+      "message": "Kontrolearje oft it probleem net earder meld is om foar te kommen dat frijwilligers mei dûbele meldingen belêst wurde."
+   },
+   "supportS6Select1": {
+      "description": "Label for widget to select type of issue",
+      "message": "De webside…"
+   },
+   "supportS6Select1Option0": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "-- Meitsje in kar --"
+   },
+   "supportS6Select1Option1": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Toant advertinsjes of restanten"
+   },
+   "supportS6Select1Option2": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Hat oerlapingen of oare ûngemakken"
+   },
+   "supportS6Select1Option3": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Detektearret uBO Lite"
+   },
+   "supportS6Select1Option4": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Hat privacy-relatearre problemen"
+   },
+   "supportS6Select1Option5": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Wurket net as uBO Lite ynskeakele is"
+   },
+   "supportS6Select1Option6": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Iepenet net-winske ljepblêden of finsters"
+   },
+   "supportS6Select1Option7": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Liedt ta badware, phishing"
+   },
+   "supportS6URL": {
+      "description": "Label for the URL of the page",
+      "message": "Adres fan de webside:"
+   },
+   "unpickerTipEnter": {
+      "description": "Label for the menu entry to delete cosmetic filters",
+      "message": "In oanpast filter fuortsmite"
+   },
+   "unpickerUsage": {
+      "description": "Summary description on how to use the tool to remove custom filters",
+      "message": "Selektearje hjirûnder in filter om oerienkommende eleminten yn de webside te markearjen. Klik op it jiskefet om in filter fuort te smiten."
+   },
+   "userScriptsInfo": {
+      "description": "A notice to inform user on how to enable 'user scripts' permission",
+      "message": "Iepenje de útwreidingsside fan jo browser (\u003Ccode>chrome://extensions\u003C/code> yn Chrome of \u003Ccode>about:addons\u003C/code> yn Firefox), iepenje de details fan \u003Cb>uBO Lite\u003C/b>, en skeakelje \u003Cb>Brûkersscripts tastean\u003C/b> (ek wol oanjûn as ‘Net-ferifiearre scripts fan tredden’) yn."
+   },
+   "zapperTipEnter": {
+      "description": "Tooltip for the button used to enter zapper mode",
+      "message": "In elemint­ fuortsmite"
+   },
+   "zapperTipQuit": {
+      "description": "Tooltip for the button used to exit zapper mode",
+      "message": "Elemint­wisker­modus slute"
+   }
+}

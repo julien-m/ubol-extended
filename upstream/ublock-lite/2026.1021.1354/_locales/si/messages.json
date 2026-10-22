@@ -1,0 +1,466 @@
+{
+   "3pGroupAds": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "දැන්වීම්"
+   },
+   "3pGroupAnnoyances": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "පීඩාකාරී"
+   },
+   "3pGroupDefault": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "පෙරනිමි"
+   },
+   "3pGroupImported": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "ආයාත කළ ලැයිස්තු"
+   },
+   "3pGroupMalware": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "අනිෂ්ට මෘදුකාංග ආරක්ෂාව, ආරක්ෂාව"
+   },
+   "3pGroupMisc": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "වෙනත්"
+   },
+   "3pGroupPrivacy": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "පෞද්ගලිකත්‍වය"
+   },
+   "3pGroupRegions": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "කලාපීය, භාෂා"
+   },
+   "aboutChangelog": {
+      "description": "",
+      "message": "වෙනස්කම් සටහන"
+   },
+   "aboutCode": {
+      "description": "English: Source code (GPLv3)",
+      "message": "මූලාශ්‍ර කේත (GPLv3)"
+   },
+   "aboutContributors": {
+      "description": "English: Contributors",
+      "message": "දායකයින්"
+   },
+   "aboutDependencies": {
+      "description": "Shown in the About pane",
+      "message": "බාහිර පරායත්ත (GPLv3-අනුකූල):"
+   },
+   "aboutDocumentation": {
+      "description": "Link to documentation in About pane",
+      "message": "ප්‍රලේඛනය"
+   },
+   "aboutFilterLists": {
+      "description": "Link text to uBO's own filter lists repo",
+      "message": "පෙරහන් ලැයිස්තු"
+   },
+   "aboutPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "පිළිබඳ"
+   },
+   "aboutPrivacyPolicy": {
+      "description": "Link to privacy policy on GitHub (English)",
+      "message": "රහස්‍යතා ප්‍රතිපත්තිය"
+   },
+   "aboutSourceCode": {
+      "description": "Link text to source code repo",
+      "message": "මූලාශ්‍ර කේත"
+   },
+   "aboutTranslations": {
+      "description": "Link text to translations repo",
+      "message": "පරිවර්තන"
+   },
+   "addButton": {
+      "description": "Text for buttons used to add content",
+      "message": "එක් කරන්න"
+   },
+   "autoReloadLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "පෙරීමේ ප්‍රකාරය වෙනස් වූ විට පිටුව ස්වයංක්‍රීයව යළි පූරණය කරන්න"
+   },
+   "backupButton": {
+      "description": "Text for buttons used to back up content",
+      "message": "උපස්ථ කරන්න…"
+   },
+   "basicFilteringModeDescription": {
+      "description": "This describes the 'basic' filtering mode",
+      "message": "තෝරාගත් පෙරහන් ලැයිස්තු වලින් මූලික ජාල පෙරහන.\n\nවෙබ් අඩවි වල දත්ත කියවීමට සහ වෙනස් කිරීමට අවසර අවශ්‍ය නොවේ."
+   },
+   "behaviorSectionLabel": {
+      "description": "The header text for the 'Behavior' section",
+      "message": "හැසිරීම"
+   },
+   "completeFilteringModeDescription": {
+      "description": "This describes the 'complete' filtering mode",
+      "message": "තෝරාගත් පෙරහන් ලැයිස්තු වලින් උසස් ජාල පෙරහන් සහ විශේෂිත සහ සාමාන්‍ය දිගු පෙරහන්.\n\nසියලුම වෙබ් අඩවි වල දත්ත කියවීමට සහ වෙනස් කිරීමට පුළුල් අවසරයක් අවශ්‍ය වේ.\n\nසාමාන්‍ය දිගු පෙරහන් මඟින් වෙබ් පිටු සම්පත් භාවිතය ඉහළ යාමට හේතු විය හැක."
+   },
+   "customFiltersImportExportLabel": {
+      "description": "Text label heading the import/export area of custom filters",
+      "message": "ආයාත කරන්න / නිර්යාත කරන්න"
+   },
+   "customFiltersImportTextareaPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "එක් කළ යුතු විශේෂිත ආලේපන/ස්ක්‍රිප්ට්ලට් පෙරහන්"
+   },
+   "customFiltersPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "අභිරුචි පෙරහන්"
+   },
+   "customListImportLabel": {
+      "description": "Text label heading the import area of custom filter lists",
+      "message": "පෙරහන් ලැයිස්තුව එක් කරන්න…"
+   },
+   "customListImportPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "එක් කළ යුතු පෙරහන් ලැයිස්තුවේ URL"
+   },
+   "customListImportUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "To enforce cosmetic or scriptlet filters from imported lists, you must grant uBO Lite permission to run user scripts."
+   },
+   "dashboardName": {
+      "description": "English: uBO Lite — Dashboard",
+      "message": "uBO Lite - උපකරණ පුවරුව"
+   },
+   "defaultFilteringModeDescription": {
+      "description": "This describes the default filtering mode setting",
+      "message": "පෙරනිමි පෙරහන් මාදිලිය එක් එක් වෙබ් අඩවියට පෙරහන් මාදිලි මගින් අභිබවා යනු ඇත. ඔබට ඕනෑම වෙබ් අඩවියක පෙරහන් මාදිලිය එම වෙබ් අඩවියේ වඩාත් හොඳින් ක්‍රියාත්මක වන මාදිලිය අනුව සකස් කළ හැකිය. සෑම මාදිලියකටම එහි වාසි සහ අවාසි ඇත."
+   },
+   "defaultFilteringModeSectionLabel": {
+      "description": "The header text for the default filtering mode section",
+      "message": "පෙරනිමි පෙරීමේ ප්‍රකාරය"
+   },
+   "developDropdownLabel": {
+      "description": "A label of a dropdown list",
+      "message": "දර්ශනය:"
+   },
+   "developOptionCustomDnrRules": {
+      "description": "An option in a dropdown list",
+      "message": "අභිරුචි DNR නීති"
+   },
+   "developOptionDnrRulesOf": {
+      "description": "A section header in a dropdown list",
+      "message": "... හි DNR නීති"
+   },
+   "developOptionDynamicRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "ගතික නීති කට්ටලය"
+   },
+   "developOptionFilteringModeDetails": {
+      "description": "An option in a dropdown list",
+      "message": "පෙරීමේ ප්‍රකාරය විස්තර"
+   },
+   "developOptionSessionRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "සැසි නීති කට්ටලය"
+   },
+   "developPageName": {
+      "description": "appears as tab name in dashboard. Inspired from 'Develop' menu in Safari, see https://developer.apple.com/documentation/safari-developer-tools/develop-menu",
+      "message": "සංවර්ධනය"
+   },
+   "developerModeLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "සංවර්ධක ප්‍රකාරය"
+   },
+   "developerModeLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "තාක්ෂණික පරිශීලකයින් සඳහා සුදුසු විශේෂාංග වෙත ප්‍රවේශය සක්‍රිය කරයි."
+   },
+   "dnrRulesCountInfo": {
+      "description": "Short sentence to report the number of currently registered DNR rules",
+      "message": "ලියාපදිංචි කළ නීති ගණන: {count}"
+   },
+   "dnrRulesWarning": {
+      "description": "Short description of the DNR rules editor pane",
+      "message": "විශ්වාස කළ නොහැකි මූලාශ්‍ර වලින් අන්තර්ගතය එක් නොකරන්න"
+   },
+   "enablePopupBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "පොප්-අප් අවහිර කිරීම සක්‍රිය කරන්න"
+   },
+   "enablePopupBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "සක්‍රිය විට, ගැලපෙන පෙරහන් වෙබ් අඩවි මගින් සාදන ලද අනවශ්‍ය බ්‍රවුසර පටිත්ත ස්වයංක්‍රීයව වසා දමනු ඇත."
+   },
+   "enableStrictBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "දැඩි අවහිර කිරීම සක්‍රීය කරන්න"
+   },
+   "enableStrictBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "අනවශ්‍ය විය හැකි අඩවි වෙත සංචාලනය අවහිර කරනු ලබන අතර, ඉදිරියට යාමට ඔබට විකල්පය ලබා දෙනු ඇත."
+   },
+   "exportButton": {
+      "description": "Text for buttons used to export content",
+      "message": "නිර්යාත කරන්න…"
+   },
+   "extName": {
+      "description": "extension name.",
+      "message": "uBlock Origin Lite"
+   },
+   "extShortDesc": {
+      "description": "this will be in the Chrome web store: must be 132 characters or less",
+      "message": "අවසර අනවශ්‍ය අන්තර්ගත අවහිරකය. ස්ථාපනය කළ වහාම දැන්වීම්, ලුහුබැඳීම්, කැණීම් සහ තවත් දෑ අවහිර කරයි."
+   },
+   "filteringMode0Name": {
+      "description": "Name of blocking mode 0",
+      "message": "පෙරීමක් නැත"
+   },
+   "filteringMode1Name": {
+      "description": "Name of blocking mode 1",
+      "message": "මූලික"
+   },
+   "filteringMode2Name": {
+      "description": "Name of blocking mode 2",
+      "message": "ප්‍රශස්ත"
+   },
+   "filteringMode3Name": {
+      "description": "Name of blocking mode 3",
+      "message": "සම්පූර්ණ"
+   },
+   "findListsPlaceholder": {
+      "description": "Placeholder for the input field used to find lists",
+      "message": "ලැයිස්තු සොයන්න"
+   },
+   "importAndAppendButton": {
+      "description": "Text for buttons used to import and append content",
+      "message": "ආයාත කර අමුණන්න…"
+   },
+   "noFilteringModeDescription": {
+      "description": "A short description for the editable field which lists trusted sites",
+      "message": "පෙරීමක් නොවන අඩවි ලැයිස්තුව."
+   },
+   "noFilteringModePlaceholder": {
+      "description": "Default text for in edit field",
+      "message": "[සත්කාරක පමණි]\nexample.com\ngames.example\n..."
+   },
+   "optimalFilteringModeDescription": {
+      "description": "This describes the 'optimal' filtering mode",
+      "message": "තෝරාගත් පෙරහන් ලැයිස්තු වලින් උසස් ජාල පෙරහන් සහ නිශ්චිත දිගු පෙරහන්.\n\nසියලුම වෙබ් අඩවි වල දත්ත කියවීමට සහ වෙනස් කිරීමට පුළුල් අවසරයක් අවශ්‍ය වේ."
+   },
+   "perRulesetStats": {
+      "description": "Appears aside each filter list in the _3rd-party filters_ pane",
+      "message": "නීති {{ruleCount}} ක් ජාල පෙරහන් {{filterCount}} කින් හරවා ඇත"
+   },
+   "pickerCreate": {
+      "description": "Text for the button to create the filter",
+      "message": "සාදන්න"
+   },
+   "pickerPick": {
+      "description": "Text for the button to re-enter element-picking mode",
+      "message": "තෝරන්න"
+   },
+   "pickerPreview": {
+      "description": "Text for the button to activate preview mode",
+      "message": "පෙරදසුන"
+   },
+   "pickerSliderLabel": {
+      "description": "Label to describe the purpose of the slider",
+      "message": "හොඳම ගැලපීම තෝරා ගැනීමට ස්ලයිඩරය ගෙන යන්න"
+   },
+   "pickerTipEnter": {
+      "description": "Label for the menu entry to create cosmetic filters",
+      "message": "අභිරුචි පෙරහනක් සාදන්න"
+   },
+   "popupFilteringModeLabel": {
+      "description": "Label in the popup panel for the current filtering mode",
+      "message": "පෙරීමේ ප්‍රකාරය"
+   },
+   "popupLessButton": {
+      "description": "Label to be used to hide popup panel sections",
+      "message": "අඩුවෙන්"
+   },
+   "popupLocalToolsLabel": {
+      "description": "Label in the popup panel for the local tools section",
+      "message": "මෙම වෙබ් අඩවිය මත"
+   },
+   "popupMoreButton": {
+      "description": "Label to be used to show popup panel sections",
+      "message": "තව"
+   },
+   "popupNoWebsite": {
+      "description": "Used when popup panel is opened for a local web page",
+      "message": "not a website"
+   },
+   "popupTipDashboard": {
+      "description": "English: Click to open the dashboard",
+      "message": "උපකරණ පුවරුව අරින්න"
+   },
+   "popupTipReport": {
+      "description": "Tooltip used for the 'chat' icon in the panel",
+      "message": "මෙම අඩවියේ ගැටලුවක් වාර්තා කරන්න"
+   },
+   "resetToDefaultButton": {
+      "description": "Text for buttons used to reset configurations to default",
+      "message": "පෙරනිමි සැකසුම් වලට නැවත සකසන්න…"
+   },
+   "resetToDefaultConfirm": {
+      "description": "Message asking user to confirm reset to default settings",
+      "message": "ඔබගේ සියලු අභිරුචි සැකසුම් ඉවත් කරනු ඇත. ඔබට සැබවින්ම පෙරනිමි සැකසුම් වලට නැවත සැකසීමට අවශ්‍යද?"
+   },
+   "restoreButton": {
+      "description": "Text for buttons used to restore content",
+      "message": "ප්‍රතිසාධනය කරන්න…"
+   },
+   "revertButton": {
+      "description": "Text for buttons used to revert changes",
+      "message": "නැවත පෙර තත්වයට"
+   },
+   "sandboxEditorLabel": {
+      "description": "Header for filter-creation section in the dashboard",
+      "message": "පෙරහන්-නිර්මාණ වැලිපිල්ල"
+   },
+   "sandboxEditorUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "To enforce cosmetic or scriptlet filters from the sandbox, you must grant uBO Lite permission to run user scripts."
+   },
+   "saveButton": {
+      "description": "Text for buttons used to save changes",
+      "message": "සුරකින්න"
+   },
+   "settingsBackupRestoreLabel": {
+      "description": "The header text for the back up/restore section",
+      "message": "උපස්ථය"
+   },
+   "settingsBackupRestoreLegend": {
+      "description": "Important information about the back up/restore section.",
+      "message": "ප්‍රතිසාධනය කිරීම ඔබගේ සියලු වත්මන් අභිරුචි සැකසුම් උඩින් ලියනු ඇත."
+   },
+   "settingsBackupRestoreSummary": {
+      "description": "A summary description of the back up/restore section.",
+      "message": "ඔබගේ අභිරුචි සැකසුම් ගොනුවකට උපස්ථ කරන්න, හෝ ගොනුවකින් ඔබගේ අභිරුචි සැකසුම් ප්‍රතිසාධනය කරන්න."
+   },
+   "settingsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "සැකසුම්"
+   },
+   "showBlockedCountLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "මෙවලම් තීරු නිරූපකයේ අවහිර කළ ඉල්ලීම් ගණන පෙන්වන්න"
+   },
+   "strictblockBack": {
+      "description": "A button to go back to the previous web page",
+      "message": "ආපසු යන්න"
+   },
+   "strictblockClose": {
+      "description": "A button to close the current tab",
+      "message": "මෙම කවුළුව වසන්න"
+   },
+   "strictblockDontWarn": {
+      "description": "Label for checkbox in document-blocked page",
+      "message": "මෙම අඩවිය ගැන මට නැවත අනතුරු අඟවන්න එපා."
+   },
+   "strictblockNoParamsPrompt": {
+      "description": "Label to be used for the parameter-less URL",
+      "message": "පරාමිතීන් නොමැතිව"
+   },
+   "strictblockProceed": {
+      "description": "A button to navigate to the blocked page",
+      "message": "ඉදිරියට"
+   },
+   "strictblockReasonSentence1": {
+      "description": "Text informing about what is causing the page to be blocked",
+      "message": "{{listname}}හි ගැළපෙන පෙරහනක් නිසා පිටුව අවහිර කරන ලදී."
+   },
+   "strictblockRedirectSentence1": {
+      "description": "Text warning about an incoming redirect",
+      "message": "අවහිර කළ පිටුව වෙනත් අඩවියකට හරවා යැවීමට අවශ්‍යයි. ඔබ ඉදිරියට යාමට තෝරා ගන්නේ නම්, ඔබ කෙලින්ම මෙහි සංචාලනය කරනු ඇත: {{url}}"
+   },
+   "strictblockSentence1": {
+      "description": "Sentence used in the strict-blocked page",
+      "message": "uBO Lite විසින් පහත පිටුව පූරණය වීම වළක්වා ඇත:"
+   },
+   "strictblockTitle": {
+      "description": "Web page title for the strict-blocked page",
+      "message": "පිටුව අවහිරයි"
+   },
+   "supportFindSpecificButton": {
+      "description": "A clickable link in the filter issue reporter section",
+      "message": "සමාන වාර්තා සොයන්න"
+   },
+   "supportReportSpecificButton": {
+      "description": "Text for button which opens an external web page in Support pane",
+      "message": "නව වාර්තාවක් සාදන්න"
+   },
+   "supportS3P1": {
+      "description": "First paragraph of 'Filter issues' section in Support pane",
+      "message": "නිශ්චිත වෙබ් අඩවි සමඟ පෙරහන් ගැටළු \u003Cspan data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\">\u003Ccode>uBlockOrigin/uAssets\u003C/code> ගැටළු ට්රැකර්\u003C/span>වෙත වාර්තා කරන්න. \u003Cu>GitHub ගිණුමක් අවශ්‍යයි.\u003C/u>"
+   },
+   "supportS5H": {
+      "description": "Label of 'Troubleshooting information' section in 'Report a filter issue' page",
+      "message": "දෝශ නිරාකරණ තොරතුරු"
+   },
+   "supportS6Checkbox1": {
+      "description": "A checkbox to use for NSFW sites",
+      "message": "වෙබ් පිටුව “NSFW” ලෙස ලේබල් කරන්න (\u003Ca href=\"https://wikipedia.org/wiki/Not_safe_for_work\">“වැඩ සඳහා ආරක්ෂිත නොවේ”\u003C/a>)"
+   },
+   "supportS6H": {
+      "description": "Header of 'Report a filter issue' section in Support pane",
+      "message": "පෙරහන් ගැටලු වාර්තා කරන්න"
+   },
+   "supportS6P1S1": {
+      "description": "A paragraph in the filter issue reporter section",
+      "message": "අනුපිටපත් වාර්තා සමඟ ස්වේච්ඡා සේවකයින්ට බරක් වීම වළක්වා ගැනීම සඳහා, කරුණාකර ගැටළුව දැනටමත් වාර්තා කර නොමැති බව තහවුරු කරගන්න. \u003Cb>සටහන:\u003C/b> බොත්තම ක්ලික් කිරීමෙන් පිටුවේ මූලාරම්භය GitHub වෙත යවනු ලැබේ."
+   },
+   "supportS6Select1": {
+      "description": "Label for widget to select type of issue",
+      "message": "වියමන පිටුව…"
+   },
+   "supportS6Select1Option0": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "-- නිවේශිතයක් තෝරන්න --"
+   },
+   "supportS6Select1Option1": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "දැන්වීම් හෝ දැන්වීම් ඉතිරි කොටස් පෙන්වයි"
+   },
+   "supportS6Select1Option2": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "උඩැතිරි හෝ වෙනත් කරදර ඇති"
+   },
+   "supportS6Select1Option3": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "uBO Lite අනාවරණය කරයි"
+   },
+   "supportS6Select1Option4": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "පෞද්ගලිකත්‍වය ආශ්‍රිත ගැටළු තිබේ"
+   },
+   "supportS6Select1Option5": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "uBO Lite සක්‍රීය කර ඇති විට සිදුවන අක්‍රමිකතා"
+   },
+   "supportS6Select1Option6": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "අනවශ්‍ය පටිති හෝ කවුළු අරියි"
+   },
+   "supportS6Select1Option7": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "නරක මෘදුකාංග, තතුබෑම් වලට මග පාදයි"
+   },
+   "supportS6URL": {
+      "description": "Label for the URL of the page",
+      "message": "අඩවියේ ලිපිනය:"
+   },
+   "unpickerTipEnter": {
+      "description": "Label for the menu entry to delete cosmetic filters",
+      "message": "අභිරුචි පෙරහනක් ඉවත් කරන්න"
+   },
+   "unpickerUsage": {
+      "description": "Summary description on how to use the tool to remove custom filters",
+      "message": "වෙබ් පිටුවේ ගැලපෙන මූලද්‍රව්‍ය උද්දීපනය කිරීමට පහත පෙරහනක් තෝරන්න. පෙරහනක් ඉවත් කිරීමට කුණු කූඩය ක්ලික් කරන්න."
+   },
+   "userScriptsInfo": {
+      "description": "A notice to inform user on how to enable 'user scripts' permission",
+      "message": "ඔබගේ බ්‍රවුසරයේ දිගු පිටුව විවෘත කරන්න (Chrome හි \u003Ccode>chrome://extensions\u003C/code> හෝ Firefox හි \u003Ccode>about:addons\u003C/code>), \u003Cb>uBO Lite\u003C/b> විස්තර විවෘත කරන්න, සහ \u003Cb>පරිශීලක ස්ක්‍රිප්ට් වලට ඉඩ දෙන්න\u003C/b> (එය “සත්‍යාපනය නොකළ තෙවන පාර්ශවීය ස්ක්‍රිප්ට්” ලෙසද හැඳින්වේ) සක්‍රිය කරන්න."
+   },
+   "zapperTipEnter": {
+      "description": "Tooltip for the button used to enter zapper mode",
+      "message": "මූලද්‍රව්‍යයක් ඉවත් කරන්න"
+   },
+   "zapperTipQuit": {
+      "description": "Tooltip for the button used to exit zapper mode",
+      "message": "මූලද්‍රව්‍ය zapper ප්‍රකාරයෙන් ඉවත් වන්න"
+   }
+}

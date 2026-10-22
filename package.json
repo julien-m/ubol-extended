@@ -1,0 +1,30 @@
+{
+  "name": "ubol-extended",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "bun run scripts/build-ublock.ts",
+    "build:ublock": "bun run scripts/build-ublock.ts",
+    "build:ublock-ios": "bun run scripts/build-ublock-ios.ts",
+    "test": "bun test",
+    "check": "tsc --noEmit",
+    "lint": "biome lint .",
+    "mcp:ublock": "node packages/ublock-mcp/main.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.32.1",
+    "tldts": "7.4.18",
+    "ws": "8.22.0",
+    "zod": "4.6.5"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.5.15",
+    "@types/bun": "1.4.2",
+    "@types/ws": "8.18.2",
+    "acorn": "8.19.0",
+    "typescript": "7.0.2"
+  },
+  "license": "GPL-3.0-or-later",
+  "description": "Independent uBlock Origin Lite extension with local MCP and Google Drive settings sync"
+}

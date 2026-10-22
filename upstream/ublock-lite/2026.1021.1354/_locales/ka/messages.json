@@ -1,0 +1,466 @@
+{
+   "3pGroupAds": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "რეკლამები"
+   },
+   "3pGroupAnnoyances": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "შემაწუხებელი შიგთავსი"
+   },
+   "3pGroupDefault": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "ნაგულისხმევი"
+   },
+   "3pGroupImported": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "შემოტანილი სიები"
+   },
+   "3pGroupMalware": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "მავნე პროგრამებისგან დაცვა, უსაფრთხოება"
+   },
+   "3pGroupMisc": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "სხვადასხვა"
+   },
+   "3pGroupPrivacy": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "პირადულობა"
+   },
+   "3pGroupRegions": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "მხარეები, ენები"
+   },
+   "aboutChangelog": {
+      "description": "",
+      "message": "ცვლილებები"
+   },
+   "aboutCode": {
+      "description": "English: Source code (GPLv3)",
+      "message": "წყაროს კოდი (GPLv3)"
+   },
+   "aboutContributors": {
+      "description": "English: Contributors",
+      "message": "მოხალისეები"
+   },
+   "aboutDependencies": {
+      "description": "Shown in the About pane",
+      "message": "ცალკეული დაქვემდებარებული პროექტები (GPLv3-თან თავსებადი):"
+   },
+   "aboutDocumentation": {
+      "description": "Link to documentation in About pane",
+      "message": "ცნობარი"
+   },
+   "aboutFilterLists": {
+      "description": "Link text to uBO's own filter lists repo",
+      "message": "ფილტრების სიები"
+   },
+   "aboutPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "შესახებ"
+   },
+   "aboutPrivacyPolicy": {
+      "description": "Link to privacy policy on GitHub (English)",
+      "message": "პირადულობის დებულება"
+   },
+   "aboutSourceCode": {
+      "description": "Link text to source code repo",
+      "message": "პირველწყარო კოდი"
+   },
+   "aboutTranslations": {
+      "description": "Link text to translations repo",
+      "message": "თარგმანები"
+   },
+   "addButton": {
+      "description": "Text for buttons used to add content",
+      "message": "დამატება"
+   },
+   "autoReloadLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "გვერდის ავტომატური განახლება ფილტრაციის რეჟიმის შეცვლისას"
+   },
+   "backupButton": {
+      "description": "Text for buttons used to back up content",
+      "message": "დამარქფება…"
+   },
+   "basicFilteringModeDescription": {
+      "description": "This describes the 'basic' filtering mode",
+      "message": "ქსელის ძირითადი ფილტრაცია შერჩეული სიებით.\n\nარ საჭიროებს საიტებზე მონაცემთა წაკითხვისა და ცვლილების ნებართვებს."
+   },
+   "behaviorSectionLabel": {
+      "description": "The header text for the 'Behavior' section",
+      "message": "მოქმედება"
+   },
+   "completeFilteringModeDescription": {
+      "description": "This describes the 'complete' filtering mode",
+      "message": "ქსელის გაუმჯობესებულ ფილტრაციასთან ერთად საერთო გაფართოებული ფილტრები შერჩეული სიებიდან.\n\nსაჭიროებს ყველა საიტზე მონაცემთა სრულად წაკითხვისა და შეცვლის ნებართვას.\n\nგაფართოებული ფილტრაცია ზოგჯერ ზედმეტად ზრდის დატვირთვას ვებგვერდის მონახულებისას."
+   },
+   "customFiltersImportExportLabel": {
+      "description": "Text label heading the import/export area of custom filters",
+      "message": "შემოტანა / გატანა"
+   },
+   "customFiltersImportTextareaPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "აქ ჩასვით გარეგნული ნაწილების ცალკეული ფილტრები დასამატებლად"
+   },
+   "customFiltersPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "მორგებული ფილტრები"
+   },
+   "customListImportLabel": {
+      "description": "Text label heading the import area of custom filter lists",
+      "message": "ფილტრის სიის დამატება…"
+   },
+   "customListImportPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "ჩასვით სიის ბმული დასამატებლად"
+   },
+   "customListImportUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "გარეგნული ან სკრიპტული ფილტრების იძულებით ამოქმედებისთვის შემოტანილი სიებიდან, uBO Lite საჭიროებს მომხმარებლის სკრიპტების გაშვების ნებართვებს."
+   },
+   "dashboardName": {
+      "description": "English: uBO Lite — Dashboard",
+      "message": "uBO Lite — მაჩვენებლები"
+   },
+   "defaultFilteringModeDescription": {
+      "description": "This describes the default filtering mode setting",
+      "message": "ფილტრაციის ნაგულისხმევი რეჟიმი ჩაანაცვლებს ცალკეულ საიტზე მითითებულს. ფილტრაციის რეჟიმის მორგება შეგიძლიათ ნებისმიერ სასურველ საიტზე იმისდა მიხედვით, რა უფრო გამოსადეგი იქნება თქვენთვის იმ საიტზე. თითოეულ რეჟიმს თავისი დადებითი და უარყოფითი მხარეები აქვს."
+   },
+   "defaultFilteringModeSectionLabel": {
+      "description": "The header text for the default filtering mode section",
+      "message": "გაფილტვრის ნაგულისხმევი რეჟიმი"
+   },
+   "developDropdownLabel": {
+      "description": "A label of a dropdown list",
+      "message": "ხედი:"
+   },
+   "developOptionCustomDnrRules": {
+      "description": "An option in a dropdown list",
+      "message": "მორგებული DNR-წესები"
+   },
+   "developOptionDnrRulesOf": {
+      "description": "A section header in a dropdown list",
+      "message": "DNR-წესები…"
+   },
+   "developOptionDynamicRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "ცვალებადი წესების კრებული"
+   },
+   "developOptionFilteringModeDetails": {
+      "description": "An option in a dropdown list",
+      "message": "ფილტრის რეჟიმი ვრცლად"
+   },
+   "developOptionSessionRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "სეანსის წესების კრებული"
+   },
+   "developPageName": {
+      "description": "appears as tab name in dashboard. Inspired from 'Develop' menu in Safari, see https://developer.apple.com/documentation/safari-developer-tools/develop-menu",
+      "message": "შემუშავება"
+   },
+   "developerModeLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "შემმუშვებლის რეჟიმი"
+   },
+   "developerModeLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "შესაძლებლობები გამოცდილი მომხმარებლებისთვის."
+   },
+   "dnrRulesCountInfo": {
+      "description": "Short sentence to report the number of currently registered DNR rules",
+      "message": "დამოწმებული წესები სულ: {count}"
+   },
+   "dnrRulesWarning": {
+      "description": "Short description of the DNR rules editor pane",
+      "message": "ნუ დაამატებთ შიგთავსს არასანდო წყაროებიდან."
+   },
+   "enablePopupBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "ამომხტომების შეზღუდვის ჩართვა"
+   },
+   "enablePopupBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "როცა მოქმედია, შესაბამისი ფილტრები თავისით დახურავს ვებსაიტების მიერ გახსნილ არასასურველ ჩანართებს."
+   },
+   "enableStrictBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "მკაცრი შეზღუდვის ჩართვა"
+   },
+   "enableStrictBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "შეიზღუდა სავარაუდოდ არასასურველ გვერდებზე გადასვლა, საშუალება გეძლევათ, მაინც განაგრძოთ."
+   },
+   "exportButton": {
+      "description": "Text for buttons used to export content",
+      "message": "გატანა…"
+   },
+   "extName": {
+      "description": "extension name.",
+      "message": "uBlock Origin Lite"
+   },
+   "extShortDesc": {
+      "description": "this will be in the Chrome web store: must be 132 characters or less",
+      "message": "საცდელი, ნებართვებისგან თავისუფალი მსუბუქი შემზღუდავი -- თავისთავად აცილებს რეკლამებს, მეთვალყურეებს, კრიპტოგამომმუშავებლებს და ა.შ."
+   },
+   "filteringMode0Name": {
+      "description": "Name of blocking mode 0",
+      "message": "ფილტრის გარეშე"
+   },
+   "filteringMode1Name": {
+      "description": "Name of blocking mode 1",
+      "message": "ძირითადი"
+   },
+   "filteringMode2Name": {
+      "description": "Name of blocking mode 2",
+      "message": "წონასწორული"
+   },
+   "filteringMode3Name": {
+      "description": "Name of blocking mode 3",
+      "message": "სრული"
+   },
+   "findListsPlaceholder": {
+      "description": "Placeholder for the input field used to find lists",
+      "message": "სიების მოძიება"
+   },
+   "importAndAppendButton": {
+      "description": "Text for buttons used to import and append content",
+      "message": "შეტანა და დამატება…"
+   },
+   "noFilteringModeDescription": {
+      "description": "A short description for the editable field which lists trusted sites",
+      "message": "სია მისამართებისა, რომლებზეც ფილტრები არ იმოქმედებს"
+   },
+   "noFilteringModePlaceholder": {
+      "description": "Default text for in edit field",
+      "message": "[მხოლოდ მისამართის საწყისი]\nexample.com\ngames.example\n…"
+   },
+   "optimalFilteringModeDescription": {
+      "description": "This describes the 'optimal' filtering mode",
+      "message": "ქსელის გაუმჯობესებულ ფილტრაციასთან ერთად გაფართოებული ფილტრები შერჩეული სიებიდან.\n\nსაჭიროებს ყველა საიტზე მონაცემთა სრულად წაკითხვისა და შეცვლის ნებართვას."
+   },
+   "perRulesetStats": {
+      "description": "Appears aside each filter list in the _3rd-party filters_ pane",
+      "message": "{{ruleCount}} წესი, შედგენილი {{filterCount}} ქსელის ფილტრიდან"
+   },
+   "pickerCreate": {
+      "description": "Text for the button to create the filter",
+      "message": "შექმნა"
+   },
+   "pickerPick": {
+      "description": "Text for the button to re-enter element-picking mode",
+      "message": "აღება"
+   },
+   "pickerPreview": {
+      "description": "Text for the button to activate preview mode",
+      "message": "შეთვალიერება"
+   },
+   "pickerSliderLabel": {
+      "description": "Label to describe the purpose of the slider",
+      "message": "გადაადგილეთ სრიალა უკეთ დამთხვევისთვის"
+   },
+   "pickerTipEnter": {
+      "description": "Label for the menu entry to create cosmetic filters",
+      "message": "მორგებული ფილტრის შექმნა"
+   },
+   "popupFilteringModeLabel": {
+      "description": "Label in the popup panel for the current filtering mode",
+      "message": "გაფილტვრის რეჟიმი"
+   },
+   "popupLessButton": {
+      "description": "Label to be used to hide popup panel sections",
+      "message": "მოკლედ"
+   },
+   "popupLocalToolsLabel": {
+      "description": "Label in the popup panel for the local tools section",
+      "message": "ამ ვებსაიტზე"
+   },
+   "popupMoreButton": {
+      "description": "Label to be used to show popup panel sections",
+      "message": "ვრცლად"
+   },
+   "popupNoWebsite": {
+      "description": "Used when popup panel is opened for a local web page",
+      "message": "არაა ვებსაიტი"
+   },
+   "popupTipDashboard": {
+      "description": "English: Click to open the dashboard",
+      "message": "სამართავის გახსნა"
+   },
+   "popupTipReport": {
+      "description": "Tooltip used for the 'chat' icon in the panel",
+      "message": "ამ საიტზე ხარვეზის მოხსენება"
+   },
+   "resetToDefaultButton": {
+      "description": "Text for buttons used to reset configurations to default",
+      "message": "ჩამოყრა ნაგულისხმევ პარამეტრებზე…"
+   },
+   "resetToDefaultConfirm": {
+      "description": "Message asking user to confirm reset to default settings",
+      "message": "ყველა მორგებული პარამეტრი მოცილდება. ნამდვილად გსურთ დაბრუნება ნაგულისხმევ პარამეტრებზე?"
+   },
+   "restoreButton": {
+      "description": "Text for buttons used to restore content",
+      "message": "აღდგენა…"
+   },
+   "revertButton": {
+      "description": "Text for buttons used to revert changes",
+      "message": "დაბრუნება"
+   },
+   "sandboxEditorLabel": {
+      "description": "Header for filter-creation section in the dashboard",
+      "message": "ფილტრის შესაქმნელი ცალკე გარემო"
+   },
+   "sandboxEditorUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "გარეგნული ან სკრიპტული ფილტრების იძულებით ამოქმედებისთვის განცაკლევებული გარემოდან, uBO Lite საჭიროებს მომხმარებლის სკრიპტების გაშვების ნებართვებს."
+   },
+   "saveButton": {
+      "description": "Text for buttons used to save changes",
+      "message": "შენახვა"
+   },
+   "settingsBackupRestoreLabel": {
+      "description": "The header text for the back up/restore section",
+      "message": "მარქაფი"
+   },
+   "settingsBackupRestoreLegend": {
+      "description": "Important information about the back up/restore section.",
+      "message": "აღდგენისას ყველა მიმდინარე პარამეტრი ჩანაცვლდება."
+   },
+   "settingsBackupRestoreSummary": {
+      "description": "A summary description of the back up/restore section.",
+      "message": "დაამარქაფეთ მითითებული პარამეტრები ფაილში ან აღადგინეთ ფაილიდან."
+   },
+   "settingsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "პარამეტრები"
+   },
+   "showBlockedCountLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "აჩვენეთ დაბლოკილი მოთხოვნების რაოდენობა ხელსაწყოთა ზოლის ხატულაზე"
+   },
+   "strictblockBack": {
+      "description": "A button to go back to the previous web page",
+      "message": "უკან დაბრუნება"
+   },
+   "strictblockClose": {
+      "description": "A button to close the current tab",
+      "message": "ამ ფანჯრის დახურვა"
+   },
+   "strictblockDontWarn": {
+      "description": "Label for checkbox in document-blocked page",
+      "message": "აღარ მეცნობოს ამ საიტზე"
+   },
+   "strictblockNoParamsPrompt": {
+      "description": "Label to be used for the parameter-less URL",
+      "message": "პარამეტრების გარეშე"
+   },
+   "strictblockProceed": {
+      "description": "A button to navigate to the blocked page",
+      "message": "გაგრძელება"
+   },
+   "strictblockReasonSentence1": {
+      "description": "Text informing about what is causing the page to be blocked",
+      "message": "გვერდი შეიზღუდა ფილტრით {{listname}}."
+   },
+   "strictblockRedirectSentence1": {
+      "description": "Text warning about an incoming redirect",
+      "message": "ეს შეზღუდული გვერდი ცდილობს თქვენს სხვა საიტზე გადაყვანას. თუ განაგრძობთ, გაიხსნება: {{url}}"
+   },
+   "strictblockSentence1": {
+      "description": "Sentence used in the strict-blocked page",
+      "message": "uBO Lite ზღუდავს მოცემული გვერდის ჩატვირთვას:"
+   },
+   "strictblockTitle": {
+      "description": "Web page title for the strict-blocked page",
+      "message": "შეზღუდული გვერდი"
+   },
+   "supportFindSpecificButton": {
+      "description": "A clickable link in the filter issue reporter section",
+      "message": "იპოვეთ მსგავსი მოხსენებები"
+   },
+   "supportReportSpecificButton": {
+      "description": "Text for button which opens an external web page in Support pane",
+      "message": "შექმენით ახალი მოსხენება"
+   },
+   "supportS3P1": {
+      "description": "First paragraph of 'Filter issues' section in Support pane",
+      "message": "ცალკეულ საიტზე ფილტრების ხარვეზების მოსახსენებლად გამოიყენეთ \u003Cspan data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\">\u003Ccode>uBlockOrigin/uAssets\u003C/code> ხარვეზების აღსარიცხავი\u003C/span>. დაგჭირდებათ GitHub-ანგარიში."
+   },
+   "supportS5H": {
+      "description": "Label of 'Troubleshooting information' section in 'Report a filter issue' page",
+      "message": "მონაცემები ხარვეზის მოსაგვარებლად"
+   },
+   "supportS6Checkbox1": {
+      "description": "A checkbox to use for NSFW sites",
+      "message": "გვერდს დაედოს მონიშვნა „NSFW“ (\u003Ca href=\"https://wikipedia.org/wiki/Not_safe_for_work\">„შეუფერებელი შიგთავსი“ (Not Safe For Work)\u003C/a>)"
+   },
+   "supportS6H": {
+      "description": "Header of 'Report a filter issue' section in Support pane",
+      "message": "ფილტრის ხარვეზის მოხსენება"
+   },
+   "supportS6P1S1": {
+      "description": "A paragraph in the filter issue reporter section",
+      "message": "მოხალისეები რომ არ მოცდნენ ერთნაირი მოსხენებების გაცნობით, გთხოვთ გადაამოწმოთ, უკვე ხომ არაა გაგზავნილი საჩივარი ამ ხარვეზზე. \u003Cb>გაითვალისწინეთ:\u003C/b> ღილაკზე დაწკაპების შედეგად გვერდის მონაცემები გაიგზავნება GitHub-ზე."
+   },
+   "supportS6Select1": {
+      "description": "Label for widget to select type of issue",
+      "message": "ვებგვერდი..."
+   },
+   "supportS6Select1Option0": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "-- შეარჩიეთ --"
+   },
+   "supportS6Select1Option1": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "აჩვენებს რეკლამებს ან მის ნარჩენებს"
+   },
+   "supportS6Select1Option2": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "ადებს შემაწუხებელ შრეებსა და მისთანებს"
+   },
+   "supportS6Select1Option3": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "ამჩნევს, რომ uBO Lite ჩართულია"
+   },
+   "supportS6Select1Option4": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": " პირადულობის დაცვის ხარვეზებითაა"
+   },
+   "supportS6Select1Option5": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "შეფერხებით მუშაობს, როცა uBO Lite ჩართულია"
+   },
+   "supportS6Select1Option6": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "ხსნის არასასურველ ჩანართებს ან ფანჯრებს"
+   },
+   "supportS6Select1Option7": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "გადადის მავნე, თაღლითურ შიგთავსზე"
+   },
+   "supportS6URL": {
+      "description": "Label for the URL of the page",
+      "message": "ვებგვერდის მისამართი:"
+   },
+   "unpickerTipEnter": {
+      "description": "Label for the menu entry to delete cosmetic filters",
+      "message": "მორგებული ფილტრის მოცილება"
+   },
+   "unpickerUsage": {
+      "description": "Summary description on how to use the tool to remove custom filters",
+      "message": "აირჩიეთ ქვემოთ ფილტრი შესაბამისი ნაწილების მოსანიშნად ვებგვერდზე. დაწკაპეთ სანაგვე ყუთი ფილტრის მოსაცილებლად."
+   },
+   "userScriptsInfo": {
+      "description": "A notice to inform user on how to enable 'user scripts' permission",
+      "message": "გახსენით ბრაუზერის გაფართოებების გვერდი (\u003Ccode>chrome://extensions\u003C/code> Chrome-ში ან \u003Ccode>about:addons\u003C/code> Firefox-ში), იხილეთ \u003Cb>uBO Lite\u003C/b> ვრცლად და გადართეთ \u003Cb>მომხმარებლის სკრიპტების ნებართვა\u003C/b> (აგრეთვე შეიძლება ეწეროს „დაუმოწმებელი გარეშე სკრიპტები“)."
+   },
+   "zapperTipEnter": {
+      "description": "Tooltip for the button used to enter zapper mode",
+      "message": "ელემენტის წაშლა"
+   },
+   "zapperTipQuit": {
+      "description": "Tooltip for the button used to exit zapper mode",
+      "message": "ნაწილების ამოჭრის რეჟიმიდან გასვლა"
+   }
+}

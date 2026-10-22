@@ -1,0 +1,466 @@
+{
+   "3pGroupAds": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Hysbysebion"
+   },
+   "3pGroupAnnoyances": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Pethau diflas"
+   },
+   "3pGroupDefault": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Diofyn"
+   },
+   "3pGroupImported": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Rhestrau wedi'u mewnforio"
+   },
+   "3pGroupMalware": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Amddiffyniad rhag meddalwedd faleisus, diogelwch"
+   },
+   "3pGroupMisc": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Amrywiol"
+   },
+   "3pGroupPrivacy": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Preifatrwydd"
+   },
+   "3pGroupRegions": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Rhanbarthau, ieithoedd"
+   },
+   "aboutChangelog": {
+      "description": "",
+      "message": "Cofnod newidiadau"
+   },
+   "aboutCode": {
+      "description": "English: Source code (GPLv3)",
+      "message": "Cod ffynhonnell (GPLv3)"
+   },
+   "aboutContributors": {
+      "description": "English: Contributors",
+      "message": "Cyfranwyr"
+   },
+   "aboutDependencies": {
+      "description": "Shown in the About pane",
+      "message": "Gofynion allanol (cydnaws â GPLv3):"
+   },
+   "aboutDocumentation": {
+      "description": "Link to documentation in About pane",
+      "message": "Dogfennaeth"
+   },
+   "aboutFilterLists": {
+      "description": "Link text to uBO's own filter lists repo",
+      "message": "Rhestri hidlo"
+   },
+   "aboutPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Ynghylch"
+   },
+   "aboutPrivacyPolicy": {
+      "description": "Link to privacy policy on GitHub (English)",
+      "message": "Polisi preifatrwydd"
+   },
+   "aboutSourceCode": {
+      "description": "Link text to source code repo",
+      "message": "Cod ffynhonnell"
+   },
+   "aboutTranslations": {
+      "description": "Link text to translations repo",
+      "message": "Cyfieithiadau"
+   },
+   "addButton": {
+      "description": "Text for buttons used to add content",
+      "message": "Ychwanegwch"
+   },
+   "autoReloadLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Ail-lwytho tudalen ar ôl newid y modd hidlo"
+   },
+   "backupButton": {
+      "description": "Text for buttons used to back up content",
+      "message": "Copïo wrth gefn…"
+   },
+   "basicFilteringModeDescription": {
+      "description": "This describes the 'basic' filtering mode",
+      "message": "Hidlo rhwydwaith sylfaenol o restrau hidl a ddewiswyd.\n\nNid oes angen caniatâd i ddarllen ac addasu data ar wefannau."
+   },
+   "behaviorSectionLabel": {
+      "description": "The header text for the 'Behavior' section",
+      "message": "Ymddygiad"
+   },
+   "completeFilteringModeDescription": {
+      "description": "This describes the 'complete' filtering mode",
+      "message": "Hidlo rhwydwaith uwch yn ogystal â hidlo estynedig penodol a generig o restrau hidl a ddewiswyd.\n\nMae angen caniatâd eang i ddarllen ac addasu data ar bob gwefan.\n\nGall hidlo estynedig generig achosi defnydd uwch o adnoddau tudalen we."
+   },
+   "customFiltersImportExportLabel": {
+      "description": "Text label heading the import/export area of custom filters",
+      "message": "Mewnforio / Allforio"
+   },
+   "customFiltersImportTextareaPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "Hidlau cosmetig/sgriptlet penodol i'w hychwanegu"
+   },
+   "customFiltersPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Hidlau arferol"
+   },
+   "customListImportLabel": {
+      "description": "Text label heading the import area of custom filter lists",
+      "message": "Ychwanegu rhestr hidl…"
+   },
+   "customListImportPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "URL y rhestr hidl i'w hychwanegu"
+   },
+   "customListImportUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "To enforce cosmetic or scriptlet filters from imported lists, you must grant uBO Lite permission to run user scripts."
+   },
+   "dashboardName": {
+      "description": "English: uBO Lite — Dashboard",
+      "message": "uBO Lite — Dangosfwrdd"
+   },
+   "defaultFilteringModeDescription": {
+      "description": "This describes the default filtering mode setting",
+      "message": "Bydd moddau hidlo fesul gwefan yn gor-reoli'r modd hidlo diofyn. Gallwch addasu'r modd hidlo ar unrhyw wefan benodol yn unol â'r modd sy'n gweithio orau ar y wefan honno. Mae gan bob modd ei fanteision a'i anfanteision."
+   },
+   "defaultFilteringModeSectionLabel": {
+      "description": "The header text for the default filtering mode section",
+      "message": "Modd hidlo diofyn"
+   },
+   "developDropdownLabel": {
+      "description": "A label of a dropdown list",
+      "message": "Gweld:"
+   },
+   "developOptionCustomDnrRules": {
+      "description": "An option in a dropdown list",
+      "message": "Rheolau DNR arferol"
+   },
+   "developOptionDnrRulesOf": {
+      "description": "A section header in a dropdown list",
+      "message": "Rheolau DNR …"
+   },
+   "developOptionDynamicRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "Set rheolau deinamig"
+   },
+   "developOptionFilteringModeDetails": {
+      "description": "An option in a dropdown list",
+      "message": "Manylion modd hidlo"
+   },
+   "developOptionSessionRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "Set rheolau sesiwn"
+   },
+   "developPageName": {
+      "description": "appears as tab name in dashboard. Inspired from 'Develop' menu in Safari, see https://developer.apple.com/documentation/safari-developer-tools/develop-menu",
+      "message": "Datblygu"
+   },
+   "developerModeLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Modd datblygwr"
+   },
+   "developerModeLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "Yn galluogi mynediad i nodweddion sy'n addas ar gyfer defnyddwyr technegol."
+   },
+   "dnrRulesCountInfo": {
+      "description": "Short sentence to report the number of currently registered DNR rules",
+      "message": "Nifer y rheolau wedi'u cofrestru: {count}"
+   },
+   "dnrRulesWarning": {
+      "description": "Short description of the DNR rules editor pane",
+      "message": "Peidiwch â ychwanegu cynnwys o ffynonellau anniogel"
+   },
+   "enablePopupBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Galluogi blocio pob-wybrennau"
+   },
+   "enablePopupBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "Pan fydd yn weithredol, bydd hidlau sy'n cyfateb yn cau tabiau porwr diangen a grëir gan wefannau yn awtomatig."
+   },
+   "enableStrictBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Galluogi blocio llym"
+   },
+   "enableStrictBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "Bydd llywio i safleoedd a allai fod yn annymunol yn cael ei rwystro, a byddwch yn cael y dewis i fwrw ymlaen."
+   },
+   "exportButton": {
+      "description": "Text for buttons used to export content",
+      "message": "Allforio"
+   },
+   "extName": {
+      "description": "extension name.",
+      "message": "uBlock Origin Lite"
+   },
+   "extShortDesc": {
+      "description": "this will be in the Chrome web store: must be 132 characters or less",
+      "message": "Rhwystrydd cynnwys nad yw'n gofyn am hawliau. Rhwystrwch hysbysebion, tracwyr, cloddwyr, a mwy, yn syth ar ôl gosod."
+   },
+   "filteringMode0Name": {
+      "description": "Name of blocking mode 0",
+      "message": "dim hidlo"
+   },
+   "filteringMode1Name": {
+      "description": "Name of blocking mode 1",
+      "message": "sylfaenol"
+   },
+   "filteringMode2Name": {
+      "description": "Name of blocking mode 2",
+      "message": "priodol"
+   },
+   "filteringMode3Name": {
+      "description": "Name of blocking mode 3",
+      "message": "cyflawn"
+   },
+   "findListsPlaceholder": {
+      "description": "Placeholder for the input field used to find lists",
+      "message": "Dod o hyd i restrau"
+   },
+   "importAndAppendButton": {
+      "description": "Text for buttons used to import and append content",
+      "message": "Mewnforio ac atodi…"
+   },
+   "noFilteringModeDescription": {
+      "description": "A short description for the editable field which lists trusted sites",
+      "message": "Rhestr o wefannau na fydd unrhyw hidlo yn digwydd ar eu cyfer."
+   },
+   "noFilteringModePlaceholder": {
+      "description": "Default text for in edit field",
+      "message": "[enwau gwesteiwyr yn unig]\nexample.com\ngames.example\n..."
+   },
+   "optimalFilteringModeDescription": {
+      "description": "This describes the 'optimal' filtering mode",
+      "message": "Hidlo rhwydwaith uwch yn ogystal â hidlo estynedig penodol o restrau hidl a ddewiswyd.\n\nMae angen caniatâd eang i ddarllen ac addasu data ar bob gwefan."
+   },
+   "perRulesetStats": {
+      "description": "Appears aside each filter list in the _3rd-party filters_ pane",
+      "message": "{{ruleCount}} rheol, wedi'u trosi o {{filterCount}} hidl rhwydwaith"
+   },
+   "pickerCreate": {
+      "description": "Text for the button to create the filter",
+      "message": "Creu"
+   },
+   "pickerPick": {
+      "description": "Text for the button to re-enter element-picking mode",
+      "message": "Dewis"
+   },
+   "pickerPreview": {
+      "description": "Text for the button to activate preview mode",
+      "message": "Rhagolwg"
+   },
+   "pickerSliderLabel": {
+      "description": "Label to describe the purpose of the slider",
+      "message": "Symudwch y llithrydd i ddewis y gêm orau"
+   },
+   "pickerTipEnter": {
+      "description": "Label for the menu entry to create cosmetic filters",
+      "message": "Creu hidl arferol"
+   },
+   "popupFilteringModeLabel": {
+      "description": "Label in the popup panel for the current filtering mode",
+      "message": "modd hidlo"
+   },
+   "popupLessButton": {
+      "description": "Label to be used to hide popup panel sections",
+      "message": "Llai"
+   },
+   "popupLocalToolsLabel": {
+      "description": "Label in the popup panel for the local tools section",
+      "message": "Ar y wefan hon"
+   },
+   "popupMoreButton": {
+      "description": "Label to be used to show popup panel sections",
+      "message": "Mwy"
+   },
+   "popupNoWebsite": {
+      "description": "Used when popup panel is opened for a local web page",
+      "message": "not a website"
+   },
+   "popupTipDashboard": {
+      "description": "English: Click to open the dashboard",
+      "message": "Agor y dashfwrdd"
+   },
+   "popupTipReport": {
+      "description": "Tooltip used for the 'chat' icon in the panel",
+      "message": "Rhoi gwybod am broblem ar y wefan hon"
+   },
+   "resetToDefaultButton": {
+      "description": "Text for buttons used to reset configurations to default",
+      "message": "Ailosod i osodiadau diofyn…"
+   },
+   "resetToDefaultConfirm": {
+      "description": "Message asking user to confirm reset to default settings",
+      "message": "Bydd eich holl osodiadau arferol yn cael eu tynnu. Ydych chi wir eisiau ailosod i osodiadau diofyn?"
+   },
+   "restoreButton": {
+      "description": "Text for buttons used to restore content",
+      "message": "Adfer…"
+   },
+   "revertButton": {
+      "description": "Text for buttons used to revert changes",
+      "message": "Dychwelwch"
+   },
+   "sandboxEditorLabel": {
+      "description": "Header for filter-creation section in the dashboard",
+      "message": "Blwch tywod creu hidl"
+   },
+   "sandboxEditorUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "To enforce cosmetic or scriptlet filters from the sandbox, you must grant uBO Lite permission to run user scripts."
+   },
+   "saveButton": {
+      "description": "Text for buttons used to save changes",
+      "message": "Cadw"
+   },
+   "settingsBackupRestoreLabel": {
+      "description": "The header text for the back up/restore section",
+      "message": "Copia wrth gefn"
+   },
+   "settingsBackupRestoreLegend": {
+      "description": "Important information about the back up/restore section.",
+      "message": "Bydd adfer yn trosysgrifo holl gosodiadau arferol presennol."
+   },
+   "settingsBackupRestoreSummary": {
+      "description": "A summary description of the back up/restore section.",
+      "message": "Copïwch eich gosodiadau arferol i ffeil, neu adferwch eich gosodiadau arferol o ffeil."
+   },
+   "settingsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Gosodiadau"
+   },
+   "showBlockedCountLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Dangos nifer y ceisiadau bloc ar eicon y bar offer"
+   },
+   "strictblockBack": {
+      "description": "A button to go back to the previous web page",
+      "message": "Yn ôl"
+   },
+   "strictblockClose": {
+      "description": "A button to close the current tab",
+      "message": "Cau'r ffenestr hon"
+   },
+   "strictblockDontWarn": {
+      "description": "Label for checkbox in document-blocked page",
+      "message": "Peidio â'm rhybuddio eto am y wefan hon"
+   },
+   "strictblockNoParamsPrompt": {
+      "description": "Label to be used for the parameter-less URL",
+      "message": "heb baramedrau"
+   },
+   "strictblockProceed": {
+      "description": "A button to navigate to the blocked page",
+      "message": "Parhau"
+   },
+   "strictblockReasonSentence1": {
+      "description": "Text informing about what is causing the page to be blocked",
+      "message": "Cafodd y dudalen ei rhwystro oherwydd hidl sy'n cyfateb yn {{listname}}."
+   },
+   "strictblockRedirectSentence1": {
+      "description": "Text warning about an incoming redirect",
+      "message": "Mae'r dudalen rwystredig am ailgyfeirio i safle arall. Os dewiswch fwrw ymlaen, byddwch yn llywio'n uniongyrchol i: {{url}}"
+   },
+   "strictblockSentence1": {
+      "description": "Sentence used in the strict-blocked page",
+      "message": "Mae uBO Lite wedi atal y dudalen ganlynol rhag llwytho:"
+   },
+   "strictblockTitle": {
+      "description": "Web page title for the strict-blocked page",
+      "message": "Tudalen wedi'i blocio"
+   },
+   "supportFindSpecificButton": {
+      "description": "A clickable link in the filter issue reporter section",
+      "message": "Dod o hyd i adroddiadau tebyg ar GitHub"
+   },
+   "supportReportSpecificButton": {
+      "description": "Text for button which opens an external web page in Support pane",
+      "message": "Creu adroddiad newydd ar GitHub"
+   },
+   "supportS3P1": {
+      "description": "First paragraph of 'Filter issues' section in Support pane",
+      "message": "Adroddwch am broblemau hidlo gyda gwefannau penodol i \u003Cspan data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\">\u003Ccode>uBlockOrigin/uAssets\u003C/code> olrheiniwr materion\u003C/span>. \u003Cu>Mae angen cyfrif GitHub.\u003C/u>"
+   },
+   "supportS5H": {
+      "description": "Label of 'Troubleshooting information' section in 'Report a filter issue' page",
+      "message": "Gwybodaeth datrys problemau"
+   },
+   "supportS6Checkbox1": {
+      "description": "A checkbox to use for NSFW sites",
+      "message": "Labelu'r dudalen we fel “NSFW” (\u003Ca href=\"https://wikipedia.org/wiki/Not_safe_for_work\">“Ddim yn Ddiogel ar gyfer Gwaith”\u003C/a>)"
+   },
+   "supportS6H": {
+      "description": "Header of 'Report a filter issue' section in Support pane",
+      "message": "Adrodd nam ar hidlydd"
+   },
+   "supportS6P1S1": {
+      "description": "A paragraph in the filter issue reporter section",
+      "message": "Er mwyn osgoi baich ar wirfoddolwyr gydag adroddiadau dyblyg, gwiriwch nad yw'r mater eisoes wedi'i adrodd. \u003Cb>Nodyn:\u003C/b> bydd clicio'r botwm yn achosi i darddiad y dudalen gael ei anfon i GitHub."
+   },
+   "supportS6Select1": {
+      "description": "Label for widget to select type of issue",
+      "message": "Y dudalen we…"
+   },
+   "supportS6Select1Option0": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "-- Dewiswch gofnod --"
+   },
+   "supportS6Select1Option1": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Yn dangos hysbysebion neu weddillion hysbysebion"
+   },
+   "supportS6Select1Option2": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Mae gorgysylltiadau neu niwsansau eraill"
+   },
+   "supportS6Select1Option3": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Yn canfod uBO Lite"
+   },
+   "supportS6Select1Option4": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Mae materion sy'n ymwneud â phreifatrwydd"
+   },
+   "supportS6Select1Option5": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Yn camweithio pan fydd uBO Lite wedi'i alluogi"
+   },
+   "supportS6Select1Option6": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Yn agor tabiau neu ffenestri diangen"
+   },
+   "supportS6Select1Option7": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Yn arwain at feddalwedd faleisus, gwe-rwydo"
+   },
+   "supportS6URL": {
+      "description": "Label for the URL of the page",
+      "message": "Cyfeiriad y dudalen we:"
+   },
+   "unpickerTipEnter": {
+      "description": "Label for the menu entry to delete cosmetic filters",
+      "message": "Tynnu hidl arferol"
+   },
+   "unpickerUsage": {
+      "description": "Summary description on how to use the tool to remove custom filters",
+      "message": "Dewiswch hidl isod i amlygu elfennau sy'n cyfateb yn y dudalen we. Cliciwch y bin sbwriel i dynnu hidl."
+   },
+   "userScriptsInfo": {
+      "description": "A notice to inform user on how to enable 'user scripts' permission",
+      "message": "Agorwch dudalen estyniadau eich porwr (\u003Ccode>chrome://extensions\u003C/code> yn Chrome neu \u003Ccode>about:addons\u003C/code> yn Firefox), agorwch fanylion \u003Cb>uBO Lite\u003C/b>, a throwch \u003Cb>Caniatáu sgriptiau defnyddiwr\u003C/b> ymlaen (a elwir hefyd yn “sgriptiau trydydd parti heb eu gwirio”)."
+   },
+   "zapperTipEnter": {
+      "description": "Tooltip for the button used to enter zapper mode",
+      "message": "Tynnu elfen"
+   },
+   "zapperTipQuit": {
+      "description": "Tooltip for the button used to exit zapper mode",
+      "message": "Gadael y modd saethu elfen"
+   }
+}
