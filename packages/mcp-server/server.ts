@@ -327,6 +327,10 @@ export async function startServer(config: BridgeConfig) {
         rejectSocket(socket, "Invalid JSON");
         return;
       }
+      if (data === null || typeof data !== "object" || Array.isArray(data)) {
+        rejectSocket(socket, "Expected a JSON object");
+        return;
+      }
       if (!socket.data.authenticated) {
         if (
           data.type !== "auth" ||
