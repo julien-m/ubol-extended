@@ -218,6 +218,52 @@ test("wrong WS token and competing authenticated bridge are rejected", async () 
   expect(competitorCode).toBe(1008);
 });
 
+test.each([false, true])(
+  "non-object WS JSON is rejected without crashing (authenticated=%s)",
+  async (authenticated) => {
+    const { base } = await setup();
+    for (const value of [null, false, 42, "invalid", [], [null]]) {
+      const socket = authenticated
+        ? await extension(base)
+        : new WebSocket(`${base.replace("http:", "ws:")}/bridge`, {
+            headers: { Origin: `chrome-extension://${extensionId}` },
+          });
+      if (!authenticated) sockets.push(socket);
+      const closed = new Promise<number>((resolve, reject) => {
+        const timer = setTimeout(
+          () => reject(new Error("Invalid message was not rejected")),
+          1000,
+        );
+        socket.once("close", (code) => {
+          clearTimeout(timer);
+          resolve(code);
+        });
+        socket.once("error", reject);
+      });
+      if (authenticated) socket.send(JSON.stringify(value));
+      else socket.once("open", () => socket.send(JSON.stringify(value)));
+      expect(await closed).toBe(1008);
+      expect(
+        (
+          await fetch(`${base}/health`, {
+            headers: { Authorization: `Bearer ${token}` },
+          })
+        ).status,
+      ).toBe(200);
+    }
+    await extension(base, (request, socket) =>
+      socket.send(
+        JSON.stringify({ type: "response", id: request.id, result: "ok" }),
+      ),
+    );
+    const mcp = await client(base);
+    const result = await mcp.callTool({ name: "settings_get", arguments: {} });
+    expect(result.isError).not.toBe(true);
+    expect(result.content).toEqual([{ type: "text", text: '"ok"' }]);
+  },
+  10000,
+);
+
 // The shared transport must expose only the selected extension's contract.
 test("uBlock MCP discovers its own tools and validates before dispatch", async () => {
   const { base } = await setup(1000, true);
